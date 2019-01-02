@@ -1,0 +1,1001 @@
+﻿eu_rank,company, country,industrial_sector,rnd_eur_million, rnd_1_year_growth_%,sales_eur_million,sales_1_year_growth_%,rnd_intensity_%,capex_eur_million,capex_1_year_growth_%,capex_int_%,profits_losses_eur_million,profits_1_year_growth_%,profitability_%,employees,employees_1_year_growth_%
+1,VOLKSWAGEN,Germany,Automobiles & Parts,9515.0,32.1,4.9,193000.0,21.4,10493.0,29.8,5.4,8333.0,-4.8,4.3,525,31.3
+2,DAIMLER,Germany,Automobiles & Parts,5639.0,0.2,4.9,114000.0,6.5,4827.0,16.1,4.2,9103.0,1.9,8.0,275,1.4
+3,ROBERT BOSCH,Germany,Automobiles & Parts,4924.0,16.1,9.4,52464.0,1.9,,  ,0.0,2397.0,-30.8,4.6,306,1.1
+4,SANOFI-AVENTIS,France,Pharmaceuticals & Biotechnology,4909.0,2.4,14.0,34947.0,4.7,1612.0,-9.5,4.6,6529.0,14.2,18.7,112,-1.5
+5,SIEMENS,Germany,Electronic & Electrical Equipment,4572.0,6.9,5.8,78296.0,6.9,2206.0,2.0,2.8,6949.0,-21.9,8.9,410,2.0
+6,GLAXOSMITHKLINE,UK,Pharmaceuticals & Biotechnology,4229.0,-3.5,13.4,31611.4,-3.5,1257.0,13.9,4.0,8913.8,-0.6,28.2,99,1.3
+7,NOKIA,Finland,Technology Hardware & Equipment,4169.0,-15.1,13.8,30176.0,-21.9,461.0,-22.8,1.5,-2382.0,122.0,-7.9,98,-24.8
+8,BMW,Germany,Automobiles & Parts,3952.0,17.2,5.1,76848.0,11.7,5236.0,42.3,6.8,8878.0,5.7,11.6,106,5.6
+9,ERICSSON,Sweden,Technology Hardware & Equipment,3862.7,1.7,14.6,26541.4,0.4,632.6,8.7,2.4,276.3,-86.6,1.0,110,5.5
+10,EADS,The Netherlands,Aerospace & Defence,3630.0,11.7,6.4,56480.0,15.0,3270.0,48.8,5.8,2120.0,30.7,3.8,140,5.5
+11,ASTRAZENECA,UK,Pharmaceuticals & Biotechnology,3375.0,-5.6,15.9,21201.3,-16.7,509.3,-19.9,2.4,6045.9,-37.7,28.5,52,-9.6
+12,FIAT,Italy,Automobiles & Parts,3295.0,51.5,3.9,83957.0,41.0,7534.0,36.3,9.0,3921.0,13.9,4.7,215,9.0
+13,BAYER,Germany,Pharmaceuticals & Biotechnology,3182.0,4.5,8.0,39760.0,8.8,1929.0,19.4,4.9,3763.0,-5.2,9.5,111,-1.2
+14,BOEHRINGER INGELHEIM,Germany,Pharmaceuticals & Biotechnology,2795.0,11.1,19.0,14691.0,11.5,,  ,0.0,2070.0,-6.9,14.1,46,4.8
+15,PEUGEOT (PSA),France,Automobiles & Parts,2481.0,-5.8,4.5,55446.0,-7.5,2279.0,1.2,4.1,-5087.0,-692.9,-9.2,204,-2.3
+16,ALCATEL-LUCENT,France,Technology Hardware & Equipment,2437.0,-3.1,16.9,14446.0,-5.7,582.0,4.3,4.0,-1687.0,-1541.9,-11.7,72,-4.8
+17,VOLVO,Sweden,Industrial Engineering,2351.3,15.2,6.6,35381.7,-2.2,1088.1,12.6,3.1,2058.8,-34.9,5.8,102,-0.2
+18,SAP,Germany,Software & Computer Services,2253.0,16.2,13.9,16223.0,14.0,541.0,21.6,3.3,4070.0,-16.3,25.1,64,15.5
+19,PHILIPS,The Netherlands,General Industrials,1937.0,9.6,7.8,24788.0,9.8,675.0,3.4,2.7,1030.0,-482.9,4.2,118,-5.7
+20,RENAULT,France,Automobiles & Parts,1889.0,-8.5,4.6,41270.0,-3.2,2847.0,16.0,6.9,1028.0,-7.5,2.5,127,-1.0
+21,CONTINENTAL,Germany,Automobiles & Parts,1826.9,7.9,5.6,32736.2,7.3,2017.6,17.2,6.2,3107.8,19.7,9.5,170,3.6
+22,FINMECCANICA,Italy,Aerospace & Defence,1812.0,-7.6,10.5,17218.0,-0.6,848.0,-7.9,4.9,-416.0,-81.6,-2.4,67,-4.4
+23,BASF,Germany,Chemicals,1766.0,8.9,2.2,78729.0,7.1,4149.0,21.7,5.3,9616.0,7.6,12.2,113,1.9
+24,STMICROELECTRONICS,The Netherlands,Technology Hardware & Equipment,1762.9,7.4,27.4,6437.0,-12.8,341.8,-64.1,5.3,-1777.3,-911.4,-27.6,48,-2.0
+25,MERCK DE,Germany,Pharmaceuticals & Biotechnology,1511.3,-0.4,13.5,11172.9,8.7,329.1,-10.2,2.9,957.6,-10.6,8.6,39,-4.5
+26,NOVO NORDISK,Denmark,Pharmaceuticals & Biotechnology,1397.4,16.0,13.4,10450.0,17.6,451.6,9.7,4.3,3947.4,31.7,37.8,34,6.7
+27,TELEFONICA,Spain,Fixed Line Telecommunications,1113.0,2.2,1.8,62356.0,-0.8,9481.0,4.4,15.2,11357.0,4.0,18.2,133,-54.2
+28,SAFRAN,France,Aerospace & Defence,1109.0,31.4,8.1,13615.0,16.8,419.0,19.0,3.1,1406.0,57.1,10.3,63,4.6
+29,BANCO SANTANDER,Spain,Banks,1098.0,-22.7,2.4,45394.0,0.2,,  ,0.0,3549.0,-55.3,7.8,189,-2.4
+30,ROYAL BANK OF SCOTLAND,UK,Banks,1087.2,-13.4,4.4,24660.3,-10.4,,  ,0.0,-6177.3,334.0,-25.0,137,-6.5
+31,UNILEVER,The Netherlands,Food Producers,1003.0,-0.6,2.0,51324.0,10.5,,  ,0.0,7094.0,8.4,13.8,172,1.8
+32,ROYAL DUTCH SHELL,UK,Oil & Gas Producers,995.9,16.8,0.3,354000.0,-0.6,24690.0,23.9,7.0,35378.2,-9.3,10.0,87,-3.3
+33,DELPHI,UK,Automobiles & Parts,909.5,0.0,7.7,11762.2,-3.3,534.3,11.9,4.5,1120.2,-10.9,9.5,,  
+34,ALSTOM,France,Industrial Engineering,888.0,3.0,4.4,20269.0,1.7,738.0,-9.2,3.6,1231.0,14.6,6.1,86252,0.9
+35,SCHLUMBERGER,The Netherlands,"Oil Equipment, Services & Distribution",885.3,8.9,2.8,31945.6,6.6,3558.4,16.9,11.1,5577.5,9.7,17.5,118000,4.4
+36,SERVIER,France,Pharmaceuticals & Biotechnology,862.0,14.9,22.0,3925.5,0.9,, , ,285.6,-36.5,7.3,, 
+37,SEAGATE TECHNOLOGY,Ireland,Technology Hardware & Equipment,858.7,12.6,7.9,10876.9,-3.9,595.7,23.6,5.5,1584.8,-32.7,14.6,53200,-8.1
+38,ZF,Germany,Automobiles & Parts,848.0,12.5,4.9,17366.0,12.0,,  ,0.0,679.0,-20.2,3.9,73867,8.4
+39,FRANCE TELECOM,France,Fixed Line Telecommunications,812.0,-0.9,1.9,43515.0,-3.9,6763.0,0.8,15.5,4101.0,-50.1,9.4,170531,-0.8
+40,BT,UK,Fixed Line Telecommunications,810.9,-1.9,3.8,21548.3,-4.7,2967.3,-3.8,13.8,3576.0,2.2,16.6,87900,-1.2
+41,TOTAL,France,Oil & Gas Producers,805.0,3.7,0.4,182000.0,9.0,19905.0,10.9,10.9,22026.0,-9.0,12.1,97126,1.1
+42,FIAT INDUSTRIAL,Italy,Industrial Engineering,796.0,18.1,3.1,25785.0,6.2,1349.0,35.9,5.2,1862.0,16.2,7.2,68257,5.9
+43,L'OREAL,France,Personal Goods,790.5,9.7,3.5,22462.7,10.4,955.0,10.3,4.3,3709.0,15.2,16.5,72637,5.4
+44,UCB,Belgium,Pharmaceuticals & Biotechnology,782.0,0.3,25.5,3070.0,6.7,160.0,95.1,5.2,389.0,11.8,12.7,9048,6.4
+45,SCHNEIDER,France,Electronic & Electrical Equipment,750.0,-10.5,3.1,23946.0,7.2,472.0,-8.3,2.0,2868.0,2.0,12.0,152384,8.5
+46,ROLLS-ROYCE,UK,Aerospace & Defence,749.9,20.6,5.2,14544.5,9.3,520.3,5.6,3.6,1642.1,15.8,11.3,42800,5.9
+47,VIVENDI,France,Media,718.0,-28.1,2.5,28994.0,0.6,4516.0,34.1,15.6,3823.0,-32.7,13.2,58050,-0.5
+48,VALEO,France,Automobiles & Parts,705.0,14.3,6.0,11759.0,8.2,603.0,23.1,5.1,672.0,-4.5,5.7,72600,6.9
+49,DEUTSCHE BANK,Germany,Banks,705.0,48.1,2.1,33369.0,0.1,,  ,0.0,784.0,-85.5,2.3,98219,-2.7
+50,THALES,France,Aerospace & Defence,699.5,19.3,4.9,14158.1,8.7,437.3,65.6,3.1,790.9,19.0,5.6,65992,-3.4
+51,SHIRE,UK,Pharmaceuticals & Biotechnology,660.8,19.5,18.6,3548.0,9.8,113.4,-23.0,3.2,705.7,-16.5,19.9,5300,0.9
+52,MICHELIN,France,Automobiles & Parts,622.0,5.1,2.9,21474.0,3.6,1894.0,18.2,8.8,2478.0,28.3,11.5,113443,-0.3
+53,ASML HOLDING,The Netherlands,Technology Hardware & Equipment,612.5,-1.3,12.9,4731.6,-16.3,171.9,-42.9,3.6,1341.3,-18.4,28.3,8497,6.8
+54,TELECOM ITALIA,Italy,Fixed Line Telecommunications,602.0,-1.5,2.0,29503.0,-1.5,3201.0,5.7,10.8,1506.0,-234.0,5.1,78503,0.3
+55,HSBC,UK,Banks,579.8,-32.2,1.1,51125.5,-1.3,,  ,0.0,15650.3,-5.6,30.6,270000,-9.4
+56,BARCLAYS,UK,Banks,533.4,18.9,1.5,34735.4,-1.8,,  ,0.0,294.2,-95.8,0.8,139200,-1.3
+57,ELECTRICITE DE FRANCE,France,Electricity,527.0,1.7,0.7,72729.0,11.4,13386.0,20.2,18.4,8808.0,-1.9,12.1,154730,1.9
+58,BP,UK,Oil & Gas Producers,510.8,6.0,0.2,285000.0,0.0,17491.3,29.3,6.1,14389.1,-49.3,5.0,85700,2.8
+59,CNH GLOBAL,The Netherlands,Industrial Engineering,494.2,24.0,3.4,14724.1,7.6,421.4,36.3,2.9,839.0,36.5,5.7,33800,3.4
+60,SAINT-GOBAIN,France,Construction & Materials,479.0,11.4,1.1,43198.0,2.6,1883.0,-7.1,4.4,2075.0,-25.7,4.8,194447,2.3
+61,COVIDIEN,Ireland,Health Care Equipment & Services,472.2,12.5,5.3,8982.9,2.4,398.7,12.6,4.4,1848.6,1.8,20.6,43400,5.1
+62,NXP SEMICONDUCTORS,The Netherlands,Technology Hardware & Equipment,459.3,0.2,13.9,3303.0,3.9,190.2,13.6,5.8,311.5,12.0,9.4,25358,7.2
+63,INFINEON TECHNOLOGIES,Germany,Technology Hardware & Equipment,455.0,-8.8,11.7,3904.0,-2.3,832.0,-1.5,21.3,456.0,-38.0,11.7,26658,3.6
+64,UBISOFT ENTERTAINMENT,France,Software & Computer Services,450.7,27.0,35.9,1256.2,18.4,25.2,-3.8,2.0,87.9,92.7,7.0,8268,19.4
+65,AMADEUS,Spain,Software & Computer Services,440.3,26.7,15.1,2910.3,5.5,55.8,26.0,1.9,831.2,-0.7,28.6,9163,12.3
+66,HENKEL,Germany,Household Goods & Home Construction,430.0,8.6,2.6,16510.0,5.8,422.0,7.4,2.6,2159.0,25.4,13.1,46610,-1.4
+67,ACCENTURE,Ireland,Support Services,424.1,11.2,1.9,22569.3,8.9,281.9,-7.9,1.2,2938.9,11.2,13.0,257000,8.9
+68,HELLA,Germany,Automobiles & Parts,416.5,11.5,8.7,4810.2,10.0,,  ,0.0,333.1,28.0,6.9,26574,9.6
+69,AREVA,France,Electricity,399.0,-8.1,4.3,9342.0,5.3,2103.0,3.2,22.5,-171.0,-90.8,-1.8,46513,-2.2
+70,EVONIK INDUSTRIES,Germany,Chemicals,384.0,10.0,2.8,13629.0,-6.3,1021.0,15.4,7.5,1915.0,4.7,14.1,33298,-0.8
+71,DSM,The Netherlands,Chemicals,383.0,0.5,4.2,9131.0,-0.7,604.0,42.8,6.6,443.0,-52.4,4.9,23498,5.7
+72,AKZO NOBEL,The Netherlands,Chemicals,379.0,8.3,2.5,15390.0,5.4,826.0,25.5,5.4,-1300.0,-219.4,-8.4,50610,-2.7
+73,CARL ZEISS,Germany,Health Care Equipment & Services,376.7,6.2,9.0,4163.0,-1.7,,  ,0.0,419.6,-31.3,10.1,23736,4.9
+74,SOCIETE GENERALE,France,Banks,376.0,10.3,1.5,24363.0,-0.4,,  ,0.0,1542.0,-62.5,6.3,154009,-3.1
+75,DASSAULT SYSTEMES,France,Software & Computer Services,368.1,11.8,18.1,2028.3,13.8,40.6,-43.1,2.0,501.0,16.9,24.7,10122,6.0
+76,VODAFONE,UK,Mobile Telecommunications,367.2,1.0,0.7,53156.1,-4.2,5580.5,-2.0,10.5,5791.0,-57.0,10.9,91272,5.7
+77,DASSAULT AVIATION,France,Aerospace & Defence,359.1,31.3,9.1,3941.2,19.2,60.5,17.8,1.5,1468.2,20.0,37.3,11552,0.9
+78,SANDVIK,Sweden,Industrial Engineering,357.0,6.8,3.1,11480.8,4.7,561.6,-3.5,4.9,1630.1,35.5,14.2,49385,1.7
+79,BAT,UK,Tobacco,344.4,4.3,1.9,18167.2,-1.4,794.1,30.2,4.4,6532.5,10.3,36.0,87485,-0.4
+80,H LUNDBECK,Denmark,Pharmaceuticals & Biotechnology,338.4,-12.9,17.1,1982.4,-7.5,40.3,-28.2,2.0,203.7,-55.2,10.3,5541,-3.4
+81,EATON CORPORATION,Ireland,Electronic & Electrical Equipment,332.7,5.3,2.7,12362.4,1.6,449.4,4.4,3.6,1159.6,-8.4,9.4,,-100.0
+82,UNICREDIT,Italy,Banks,327.0,51.8,1.4,24184.5,-3.2,,  ,0.0,-327.1,-95.4,-1.4,156354,-2.5
+83,BSH BOSCH UND SIEMENS HAUSGERATE,Germany,Household Goods & Home Construction,321.0,9.6,6.5,4965.3,-4.8,,  ,0.0,153.9,24.0,3.1,12604,1.0
+84,REED ELSEVIER,UK,Media,312.2,-3.3,  ,,  ,,  ,  ,651.8,40.1,  ,30400,-0.3
+85,FRESENIUS,Germany,Health Care Equipment & Services,305.0,14.2,1.6,19290.0,16.8,970.0,23.9,5.0,2983.0,16.4,15.5,169324,13.4
+86,DIEHL,Germany,General Industrials,303.3,5.6,10.4,2929.3,7.5,,  ,0.0,173.6,3.5,5.9,13455,5.3
+87,MAHLE,Germany,Automobiles & Parts,289.4,-10.3,4.7,6159.5,2.6,,  ,0.0,404.0,-4.9,6.6,47153,-1.0
+88,INTESA SANPAOLO,Italy,Banks,287.0,-0.3,1.6,17992.0,6.6,,  ,0.0,2967.0,-131.1,16.5,96170,-3.9
+89,SOLVAY,Belgium,Chemicals,285.0,77.0,2.1,13373.0,64.9,785.0,30.4,5.9,1384.0,168.7,10.3,29103,-0.1
+90,LLOYDS BANKING,UK,Banks,282.3,-36.0,1.2,24496.4,-1.4,,  ,0.0,-681.7,-83.9,-2.8,113617,10.3
+91,IPSEN,France,Pharmaceuticals & Biotechnology,275.3,33.5,22.6,1219.5,5.1,49.0,10.5,4.0,114.8,58.2,9.4,4835,5.6
+92,DANONE,France,Food Producers,257.0,10.3,1.2,20869.0,8.0,976.0,10.3,4.7,2731.0,-0.7,13.1,102401,1.4
+93,HEXAGON,Sweden,Industrial Engineering,254.7,13.9,10.7,2380.0,9.7,46.8,20.3,2.0,489.5,13.5,20.6,13203,5.8
+94,GRUNENTHAL,Germany,Pharmaceuticals & Biotechnology,251.0,7.7,26.5,946.6,4.0,,  ,0.0,123.4,-65.0,13.0,4718,-5.0
+95,KNORR-BREMSE,Germany,Industrial Engineering,249.7,19.6,5.8,4300.1,1.4,,  ,0.0,467.7,-6.9,10.9,17693,2.3
+96,ELECTROLUX,Sweden,Household Goods & Home Construction,248.0,4.2,1.9,12816.8,8.3,476.6,29.3,3.7,477.3,43.3,3.7,59478,12.4
+97,RWE,Germany,"Gas, Water & Multi-utilities",246.0,4.7,0.5,50771.0,3.3,5081.0,-20.0,10.0,3927.0,-6.1,7.7,70208,-2.6
+98,THYSSENKRUPP,Germany,Industrial Metals & Mining,242.0,-2.4,0.6,40124.0,-6.1,1051.0,10.1,2.6,988.0,-64.8,2.5,167961,-6.7
+99,GDF SUEZ,France,"Gas, Water & Multi-utilities",236.0,2.2,0.2,97038.0,7.0,9177.0,3.1,9.5,7024.0,-28.7,7.2,236156,-1.7
+100,ATLAS COPCO,Sweden,Industrial Engineering,235.7,16.2,2.2,10549.1,11.5,194.8,-3.2,1.8,2245.9,9.8,21.3,39113,11.3
+101,RHEINMETALL,Germany,Automobiles & Parts,229.0,10.1,4.9,4704.0,5.6,234.0,18.8,5.0,232.0,-36.6,4.9,21767,1.2
+102,ZODIAC AEROSPACE,France,Aerospace & Defence,222.7,23.0,6.5,3440.6,25.8,82.7,34.8,2.4,498.5,24.4,14.5,23080,18.0
+103,VESTAS WIND SYSTEMS,Denmark,Alternative Energy,221.0,-47.1,3.1,7216.0,23.6,167.0,-60.7,2.3,-523.0,946.0,-7.2,17778,-21.8
+104,BIOMERIEUX,France,Pharmaceuticals & Biotechnology,218.6,6.9,  ,,  ,,  ,  ,0.0,3.4,  ,,  
+105,BEHR,Germany,Automobiles & Parts,216.6,3.6,5.8,3727.9,0.6,,  ,0.0,31.5,-81.4,0.8,,  
+106,ARCELORMITTAL,Luxembourg,Industrial Metals & Mining,216.0,-6.9,0.3,63826.7,-10.4,3549.3,-3.2,5.6,-2445.1,-165.9,-3.8,245000,-6.1
+107,GKN,UK,Automobiles & Parts,215.3,25.0,2.8,7785.9,13.3,332.5,17.8,4.3,588.4,23.0,7.6,40335,9.2
+108,WARTSILA,Finland,Industrial Engineering,212.0,23.3,4.5,4725.0,12.3,112.0,24.4,2.4,470.0,7.6,9.9,18887,5.4
+109,ENI,Italy,Oil & Gas Producers,211.0,10.5,0.2,127000.0,15.5,11222.0,-3.7,8.8,15894.0,-10.8,12.5,75206,-5.2
+110,CSR UK,UK,Technology Hardware & Equipment,209.1,16.7,26.9,777.1,21.3,9.1,-17.5,1.2,83.7,-342.9,10.8,2474,20.9
+111,LEGRAND,France,Electronic & Electrical Equipment,207.6,3.5,4.6,4466.7,5.1,92.5,-13.6,2.1,848.0,4.4,19.0,33079,6.5
+112,INGERSOLL-RAND,Ireland,Industrial Engineering,207.4,6.3,1.9,10637.3,-5.1,199.0,8.1,1.9,1149.5,75.4,10.8,49000,-5.8
+113,RECKITT BENCKISER,UK,Household Goods & Home Construction,204.5,10.3,1.8,11442.1,0.9,198.5,1.2,1.7,2858.4,0.2,25.0,35900,-5.0
+114,B BRAUN MELSUNGEN,Germany,Health Care Equipment & Services,202.5,5.4,4.0,5047.8,9.5,,  ,0.0,510.0,15.2,10.1,46559,6.6
+115,UMICORE,Belgium,Industrial Metals & Mining,201.0,28.2,1.6,12548.0,-13.3,227.8,21.1,1.8,334.5,-24.0,2.7,14438,-0.9
+116,TOGNUM,Germany,Industrial Engineering,200.8,6.4,6.7,3014.5,1.4,,  ,0.0,296.5,-0.3,9.8,10479,6.7
+117,SNCF,France,Industrial Transportation,200.0,49.3,0.6,33820.0,3.6,,  ,0.0,990.0,54.4,2.9,249343,1.7
+118,CHIESI FARMACEUTICI,Italy,Pharmaceuticals & Biotechnology,198.0,16.9,17.9,1106.8,4.7,,  ,0.0,182.4,1.4,16.5,3822,1.2
+119,ZF LENKSYSTEME,Germany,Automobiles & Parts,195.2,14.7,4.9,3977.0,11.5,,  ,0.0,159.9,-9.7,4.0,12717,8.5
+120,NOVOZYMES,Denmark,Pharmaceuticals & Biotechnology,193.7,12.4,12.9,1504.6,6.9,151.1,-12.6,10.0,365.4,15.5,24.3,5950,3.5
+121,TRUMPF,Germany,General Industrials,193.4,22.4,9.6,2023.8,51.0,,  ,0.0,202.8,-517.4,10.0,7862,3.9
+122,INDRA SISTEMAS,Spain,Software & Computer Services,193.0,2.0,6.6,2941.0,9.4,24.1,-42.7,0.8,221.9,-17.7,7.5,36935,18.8
+123,TESCO,UK,General Retailers,192.6,-38.3,0.2,77531.8,0.4,3132.3,-22.4,4.0,3022.3,-27.2,3.9,537784,3.5
+124,SAGE,UK,Software & Computer Services,192.6,-2.9,12.0,1602.9,0.5,23.1,-16.1,1.4,411.3,-0.3,25.7,13193,-2.7
+125,LANXESS,Germany,Chemicals,192.0,33.3,2.1,9094.0,3.6,696.0,2.5,7.7,769.0,3.2,8.5,17177,4.8
+126,ARM HOLDINGS,UK,Electronic & Electrical Equipment,191.1,4.0,27.7,690.0,17.3,24.2,66.4,3.5,245.7,40.6,35.6,2261,13.3
+127,BAE SYSTEMS,UK,Aerospace & Defence,189.0,-31.0,0.9,19962.4,-6.1,429.4,0.0,2.2,1974.6,4.5,9.9,81000,-6.9
+128,L'AIR LIQUIDE,France,Chemicals,187.8,-6.8,1.2,15326.3,6.0,2007.9,14.4,13.1,2523.7,9.1,16.5,49500,7.1
+129,SKF,Sweden,Industrial Engineering,187.4,8.6,2.5,7524.4,-2.5,229.3,7.0,3.0,856.2,-23.8,11.4,,  
+130,KERRY,Ireland,Food Producers,185.9,11.3,3.2,5848.3,10.3,140.9,-2.4,2.4,543.2,14.6,9.3,24182,0.6
+131,VOITH,Germany,General Industrials,185.9,8.1,3.2,5723.6,2.3,,  ,0.0,356.6,-10.1,6.2,43533,3.8
+132,FREUDENBERG,Germany,General Industrials,184.1,8.9,2.9,6321.7,5.5,,  ,0.0,538.0,4.1,8.5,37684,4.4
+133,DANFOSS,Denmark,Industrial Engineering,183.8,10.6,4.0,4554.5,0.3,,  ,0.0,498.9,-11.7,11.0,23092,-4.3
+134,AMDOCS,UK,Software & Computer Services,183.5,9.1,7.5,2460.9,2.2,92.5,11.2,3.8,335.4,9.4,13.6,20105,1.4
+135,CLAAS,Germany,Industrial Engineering,181.2,25.6,5.3,3435.6,4.0,,  ,0.0,316.6,10.8,9.2,9077,0.2
+136,PIRELLI,Italy,Automobiles & Parts,178.9,5.4,2.9,6071.5,7.4,455.5,-26.3,7.5,802.3,34.6,13.2,36384,16.4
+137,WACKER CHEMIE,Germany,Chemicals,174.5,0.9,3.8,4634.9,-5.6,942.9,20.7,20.3,263.8,-56.4,5.7,16292,-5.1
+138,GEMALTO,The Netherlands,Electronic & Electrical Equipment,173.7,14.5,7.7,2245.5,11.4,70.0,31.9,3.1,238.2,45.6,10.6,,-100.0
+139,GRUNDFOS,Denmark,Industrial Engineering,170.6,4.4,21.9,779.8,7.3,,  ,0.0,38.1,-3.8,4.9,2776,-3.2
+140,TOMTOM,The Netherlands,Electronic & Electrical Equipment,170.0,0.9,16.1,1057.1,-17.0,9.3,-43.6,0.9,70.2,-116.5,6.6,3477,-6.0
+141,DEUTSCHE BORSE,Germany,Financial Services,168.6,51.1,7.9,2145.3,-3.9,44.5,7.0,2.1,922.8,-13.9,43.0,3704,3.2
+142,PORTUGAL TELECOM,Portugal,Fixed Line Telecommunications,167.0,-23.7,2.6,6392.6,6.5,1510.4,24.1,23.6,932.0,4.6,14.6,70103,-3.1
+143,ACCIONA,Spain,Construction & Materials,166.2,77.6,2.4,7016.0,5.6,752.2,-23.4,10.7,1430.6,103.9,20.4,32905,3.3
+144,MARKS & SPENCER,UK,General Retailers,163.7,158.8,1.4,11992.0,0.9,768.5,13.9,6.4,904.2,1.3,7.5,81734,0.6
+145,AGFA-GEVAERT,Belgium,Electronic & Electrical Equipment,163.0,-0.6,5.3,3091.0,2.2,41.0,-25.5,1.3,105.0,191.7,3.4,11408,-2.7
+146,ALMIRALL,Spain,Pharmaceuticals & Biotechnology,162.1,12.2,23.7,682.9,-11.1,28.8,53.8,4.2,56.0,-30.2,8.2,2804,0.4
+147,DRAGERWERK,Germany,Health Care Equipment & Services,161.2,21.8,6.8,2373.5,5.2,58.4,-1.9,2.5,231.8,8.5,9.8,12516,5.0
+148,MTU AERO ENGINES,Germany,Aerospace & Defence,160.7,-1.4,4.8,3378.6,15.2,99.1,-12.8,2.9,300.2,4.2,8.9,8541,4.1
+149,TECHNICOLOR,France,Media,160.0,5.3,4.5,3580.0,3.8,80.0,-24.5,2.2,264.0,-900.0,7.4,14639,-13.6
+150,MAXINGVEST,Germany,Beverages,159.0,-2.5,1.7,9608.0,4.7,,  ,0.0,856.0,54.2,8.9,29280,-3.3
+151,JOHNSON MATTHEY,UK,Chemicals,158.0,8.1,1.2,12831.6,-10.8,208.3,26.7,1.6,455.0,-12.4,3.5,10995,9.3
+152,ASSA ABLOY,Sweden,Construction & Materials,156.6,11.8,2.9,5432.2,11.6,126.5,20.9,2.3,875.7,43.6,16.1,42762,4.1
+153,WM MORRISON SUPERMARKETS,UK,Food & Drug Retailers,155.5,85.7,0.7,21666.7,2.6,1011.8,16.9,4.7,1136.2,-2.5,5.2,128705,-1.9
+154,RSA INSURANCE,UK,Nonlife Insurance,153.1,-12.9,1.5,9990.2,2.6,,  ,0.0,203.3,-4.5,2.0,,-100.0
+155,COMMERZBANK,Germany,Banks,152.0,26.7,1.5,10296.0,-12.9,,  ,0.0,905.0,78.5,8.8,53798,-3.8
+156,ASM INTERNATIONAL,The Netherlands,Technology Hardware & Equipment,149.2,12.3,10.5,1418.1,-13.2,68.2,-23.6,4.8,99.0,-63.3,7.0,17332,-1.1
+157,KRONES,Germany,Industrial Engineering,149.1,21.2,5.6,2664.2,7.4,71.7,0.4,2.7,91.6,32.8,3.4,11963,5.0
+158,ESSILOR INTERNATIONAL,France,Health Care Equipment & Services,149.0,6.5,3.0,4988.8,19.1,241.2,17.8,4.8,893.6,17.7,17.9,50668,4.0
+159,ELAN,Ireland,Pharmaceuticals & Biotechnology,148.5,-14.9,97950.0,0.2,-100.0,7.8,-62.3,5150.0,-278.1,-665.3,-183450.1,364,-59.6
+160,GETINGE,Sweden,Health Care Equipment & Services,148.2,14.5,5.2,2825.4,11.0,146.2,34.2,5.2,466.8,2.1,16.5,13617,9.6
+161,ARKEMA,France,Chemicals,148.0,12.1,2.3,6395.0,8.4,479.0,13.0,7.5,672.0,-14.0,10.5,13759,-12.8
+162,IBERDROLA,Spain,Electricity,145.2,6.5,0.4,34201.2,8.1,3896.5,-3.6,11.4,4552.5,2.0,13.3,31338,-1.7
+163,DEUTSCHE TELEKOM,Germany,Fixed Line Telecommunications,143.9,-41.0,0.2,58169.0,-0.8,6312.0,-3.9,10.9,-5068.0,-186.7,-8.7,229686,-2.3
+164,E.ON,Germany,"Gas, Water & Multi-utilities",143.0,16.3,0.1,132000.0,16.8,6379.0,2.6,4.8,4344.0,-2902.6,3.3,72083,-8.6
+165,ING,The Netherlands,Banks,143.0,10.9,0.9,15342.0,-7.6,,  ,0.0,4330.0,-18.3,28.2,66879,-6.0
+166,ENEL,Italy,Electricity,139.0,40.4,0.2,82699.0,6.6,6522.0,-6.3,7.9,8165.0,-26.9,9.9,73702,-3.4
+167,ANHEUSER-BUSCH INBEV,Belgium,Beverages,137.9,4.0,0.5,30133.4,1.8,2473.9,-3.3,8.2,10106.9,0.8,33.5,117632,1.4
+168,METRO,Germany,General Retailers,134.0,-5.6,0.2,66739.0,1.2,1304.0,-4.1,2.0,1229.0,-36.5,1.8,288107,-0.9
+169,EBERSPAECHER,Germany,Automobiles & Parts,134.0,11.6,5.2,2590.5,34.0,,  ,0.0,131.9,100.3,5.1,6134,11.6
+170,RICHTER GEDEON,Hungary,Pharmaceuticals & Biotechnology,133.3,35.3,11.9,1120.8,6.1,81.7,-10.6,7.3,168.3,-13.5,15.0,10982,2.1
+171,SERCO,UK,Support Services,132.8,25.9,2.3,5875.9,5.7,63.0,6.0,1.1,333.9,1.7,5.7,96113,25.4
+172,BOLLORE,France,Industrial Transportation,131.6,173.0,1.3,10185.8,20.0,430.8,52.9,4.2,503.4,47.3,4.9,55555,46.6
+173,SAAB,Sweden,Aerospace & Defence,130.9,63.0,4.7,2797.7,2.2,38.2,0.9,1.4,206.4,5.4,7.4,13834,8.0
+174,GIESECKE & DEVRIENT,Germany,Support Services,130.8,11.1,8.0,1635.4,-3.1,,  ,0.0,100.1,-21.5,6.1,10507,2.0
+175,SMITH & NEPHEW,UK,Health Care Equipment & Services,129.6,2.4,4.1,3135.5,-3.1,200.8,-17.4,6.4,650.3,-1.5,20.7,10477,-2.5
+176,ADIDAS,Germany,Personal Goods,128.0,11.3,0.9,14883.0,11.7,376.0,18.2,2.5,919.0,-3.6,6.2,46306,-1.1
+177,SMITHS,UK,Electronic & Electrical Equipment,127.4,8.1,3.5,3624.0,6.6,59.9,1.6,1.7,449.5,-13.3,12.4,23200,1.3
+178,KWS SAAT,Germany,Food Producers,126.6,11.5,12.8,986.3,15.3,46.2,37.3,4.7,128.3,6.0,13.0,3851,8.2
+179,METSO,Finland,Industrial Engineering,126.0,6.8,1.7,7504.0,12.9,156.0,-4.9,2.1,604.0,6.7,8.0,30212,-0.4
+180,VOESTALPINE,Austria,Industrial Metals & Mining,125.6,19.3,1.1,11524.4,-4.4,740.1,33.9,6.4,844.2,20.5,7.3,43429,1.2
+181,MERZ,Germany,Pharmaceuticals & Biotechnology,125.0,-6.5,12.9,966.2,15.4,,  ,0.0,263.1,57.5,27.2,,  
+182,GRIFOLS,Spain,Pharmaceuticals & Biotechnology,124.6,47.5,4.8,2620.9,46.0,146.0,6.4,5.6,662.2,135.3,25.3,11259,0.0
+183,MISYS,UK,Software & Computer Services,124.1,49.8,26.1,474.8,7.3,,  ,0.0,-3.2,-107.4,-0.7,4064,-7.8
+184,BRITISH SKY BROADCASTING,UK,Media,120.8,60.3,1.5,8122.0,2.9,272.7,15.7,3.4,1484.2,15.5,18.3,17937,12.1
+185,PACE,UK,Technology Hardware & Equipment,120.1,-6.6,6.6,1821.6,4.1,17.1,-45.5,0.9,71.1,24.6,3.9,1864,14.4
+186,INVENSYS,UK,Electronic & Electrical Equipment,118.4,-16.8,5.5,2143.2,-29.4,41.9,  ,2.0,51.4,-71.9,2.4,20818,0.9
+187,HEIDELBERGER DRUCKMASCHINEN,Germany,Industrial Engineering,118.2,-8.3,4.3,2734.6,5.4,80.4,21.9,2.9,29.6,689.0,1.1,14215,-7.8
+188,MEGGITT,UK,Aerospace & Defence,116.1,16.7,6.0,1920.5,10.3,42.5,31.5,2.2,384.5,23.1,20.0,10831,15.8
+189,LAFARGE,France,Construction & Materials,116.0,-10.1,0.7,15816.0,3.5,775.0,-27.6,4.9,1894.0,15.6,12.0,58031,-4.8
+190,KION,Germany,Industrial Engineering,115.4,5.2,2.4,4726.7,8.2,,  ,0.0,531.5,165.7,11.2,22232,6.9
+191,JOHN LEWIS,UK,General Retailers,114.9,8.7,1.1,10124.7,9.1,,  ,0.0,548.4,15.4,5.4,81900,4.1
+192,LYONDELLBASELL INDUSTRIES,The Netherlands,Chemicals,114.4,-13.7,0.3,34557.4,-10.7,803.4,1.0,2.3,3238.6,-1.8,9.4,13400,-2.2
+193,SYMRISE,Germany,Chemicals,113.8,7.6,6.6,1734.9,9.6,51.6,8.2,3.0,249.4,7.2,14.4,5799,4.4
+194,WEBASTO,Germany,Automobiles & Parts,112.8,18.8,4.6,2440.6,5.9,,  ,0.0,124.4,-17.0,5.1,10094,9.6
+195,GAMESA,Spain,Industrial Engineering,112.4,10.1,4.2,2664.8,-12.0,139.7,-1.6,5.2,-209.1,-182.9,-7.8,6656,-20.4
+196,PRADA,Italy,Personal Goods,111.4,8.0,3.4,3256.4,29.1,350.2,40.9,10.8,889.8,41.5,27.3,9427,16.9
+197,HUSQVARNA,Sweden,Industrial Engineering,109.6,-4.8,3.1,3592.9,1.6,60.1,-26.5,1.7,187.3,3.9,5.2,15429,-1.7
+198,AHOLD,The Netherlands,Food & Drug Retailers,109.0,28.2,0.3,32841.0,8.5,911.0,20.7,2.8,1268.0,-14.8,3.9,156000,-28.4
+199,LOTUS CARS,UK,Automobiles & Parts,108.1,91.1,117.4,92.1,-37.4,,  ,0.0,-132.8,459.2,-144.2,1084,-6.6
+200,BENTELER INTERNATIONAL,Austria,Automobiles & Parts,107.6,0.7,1.4,7452.0,4.9,,  ,0.0,154.7,-13.6,2.1,,  
+201,VATTENFALL,Sweden,Electricity,106.7,-22.2,0.5,19495.7,-7.6,,  ,0.0,2975.2,11.8,15.3,32794,-5.5
+202,YANDEX,The Netherlands,Software & Computer Services,105.1,28.3,14.6,717.8,52.2,99.4,-24.1,13.9,238.8,43.0,33.3,3761,13.6
+203,VEOLIA ENVIRONNEMENT,France,"Gas, Water & Multi-utilities",103.9,-23.0,0.4,29438.5,-0.7,2302.0,1.9,7.8,1123.7,16.0,3.8,248805,-3.7
+204,SMA SOLAR TECHNOLOGY,Germany,Alternative Energy,103.2,3.3,7.1,1463.4,-12.7,72.9,-45.7,5.0,103.4,-56.8,7.1,6223,-3.9
+205,ALTANA,Germany,Chemicals,102.3,16.7,6.0,1705.3,5.5,,  ,0.0,226.9,4.6,13.3,5345,4.3
+206,SPECTRIS,UK,Electronic & Electrical Equipment,102.3,12.8,6.9,1472.0,11.3,34.4,-1.4,2.3,237.5,13.0,16.1,7361,14.2
+207,ALKERMES,Ireland,Pharmaceuticals & Biotechnology,101.2,11.7,23.2,436.2,47.6,16.8,30.8,3.9,62.0,-192.7,14.2,1230,2.5
+208,KRKA,Slovenia,Pharmaceuticals & Biotechnology,101.1,8.8,8.8,1143.3,6.3,145.1,45.1,12.7,192.3,-10.1,16.8,9461,5.7
+209,SOFTWARE,Germany,Software & Computer Services,101.1,14.8,9.7,1047.3,-4.6,13.3,-7.9,1.3,243.8,-9.7,23.3,5419,-2.1
+210,LINDE,Germany,Chemicals,101.0,-30.3,0.7,15280.0,10.8,1788.0,32.9,11.7,1972.0,5.9,12.9,56302,13.6
+211,DIALOG SEMICONDUCTOR,UK,Technology Hardware & Equipment,101.0,53.6,17.2,586.3,46.7,26.5,65.5,4.5,69.0,47.7,11.8,806,26.9
+212,INGENICO,France,Electronic & Electrical Equipment,100.6,21.6,8.3,1206.4,20.5,49.8,43.3,4.1,155.0,38.7,12.8,3942,10.4
+213,GEA,Germany,Industrial Engineering,100.5,19.3,1.8,5720.1,5.6,161.0,3.8,2.8,456.1,1.8,8.0,24498,2.8
+214,IMAGINATION TECHNOLOGIES,UK,Technology Hardware & Equipment,100.4,40.8,55.4,181.2,18.8,27.4,158.7,15.1,13.3,-52.6,7.3,1249,29.2
+215,ORION OYJ,Finland,Pharmaceuticals & Biotechnology,100.0,21.8,10.2,980.4,6.8,42.4,66.3,4.3,280.9,-0.3,28.7,3495,5.0
+216,GAMELOFT,France,Software & Computer Services,98.8,13.9,47.4,208.3,26.7,6.1,17.5,2.9,15.5,-23.5,7.4,6221,13.9
+217,SCA,Sweden,Forestry & Paper,98.5,1.6,1.0,9951.9,5.0,661.0,-4.0,6.6,615.0,214.9,6.2,33775,-22.7
+218,RIO TINTO,UK,Mining,97.8,-12.8,0.3,38628.9,-15.8,13231.8,41.5,34.3,7438.2,-57.6,19.3,71219,4.8
+219,BURELLE,France,General Industrials,97.5,-43.7,2.0,4808.2,13.9,215.2,25.1,4.5,299.4,5.1,6.2,21043,6.4
+220,BARCO,Belgium,Electronic & Electrical Equipment,97.3,16.8,8.4,1156.0,11.0,24.9,22.4,2.1,98.1,66.2,8.5,3725,5.6
+221,KORBER,Germany,General Industrials,97.0,-8.6,4.8,2003.7,3.1,,  ,0.0,221.6,-2.2,11.1,,-100.0
+222,BOREALIS,Austria,Chemicals,97.0,3.2,  ,,-100.0,,  ,  ,,  ,  ,175,  
+223,PUMA,Germany,Personal Goods,93.9,21.9,2.9,3270.7,8.7,81.2,14.2,2.5,113.2,-66.1,3.5,11290,4.2
+224,LEONI,Germany,Electronic & Electrical Equipment,93.6,11.3,2.5,3809.0,2.9,160.6,26.0,4.2,235.8,-0.6,6.2,59393,-2.2
+225,SELLAFIELD,UK,General Industrials,93.3,4.0,200.0,46.6,-33.9,,  ,0.0,37.1,-39.2,79.5,9395,0.8
+226,RABOBANK,The Netherlands,Banks,93.0,-35.0,0.7,13443.0,11.0,,  ,0.0,2065.0,-27.7,15.4,59649,0.8
+227,NORDDEUTSCHE LANDESBANK GIROZENTRALE,Germany,Banks,93.0,89.8,3.9,2415.0,-3.2,,  ,0.0,76.0,-89.6,3.1,7007,0.8
+228,QIAGEN,The Netherlands,Pharmaceuticals & Biotechnology,92.8,-6.2,9.8,950.8,7.2,77.3,17.5,8.1,131.0,466.6,13.8,3999,1.5
+229,VALLOUREC,France,Industrial Engineering,92.8,19.3,1.7,5326.0,0.6,803.1,-11.7,15.1,480.7,-29.7,9.0,22196,1.7
+230,CGGVERITAS,France,"Oil Equipment, Services & Distribution",92.4,29.8,3.6,2584.9,7.2,555.3,28.8,21.5,237.1,104.8,9.2,7560,5.0
+231,SICK,Germany,Electronic & Electrical Equipment,92.1,13.8,9.5,971.3,7.6,,  ,0.0,84.1,1.1,8.7,5915,8.3
+232,BOUYGUES,France,Construction & Materials,92.0,-33.8,0.3,33547.0,2.6,2307.0,12.2,6.9,1551.0,-27.5,4.6,136904,1.6
+233,HEIDELBERGCEMENT,Germany,Construction & Materials,91.9,16.5,0.7,14020.2,8.7,803.3,-5.8,5.7,1175.9,-12.1,8.4,51966,-1.1
+234,ABENGOA,Spain,General Industrials,91.3,0.7,1.2,7783.3,9.8,380.9,14.9,4.9,774.6,283.6,10.0,26141,17.5
+235,WINCOR NIXDORF,Germany,Software & Computer Services,90.5,-9.7,3.9,2343.0,0.6,45.9,6.3,2.0,101.2,-37.6,4.3,9057,-2.2
+236,COBHAM,UK,Aerospace & Defence,90.2,0.1,4.3,2092.3,-5.7,,  ,0.0,290.4,-17.0,13.9,9992,-6.6
+237,TATE & LYLE,UK,Food Producers,89.7,27.1,2.3,3894.2,5.4,110.0,-9.8,2.8,415.0,3.0,10.7,4322,0.8
+238,VAILLANT,Germany,Industrial Engineering,89.0,17.6,3.9,2275.9,-1.6,,  ,0.0,204.3,15.2,9.0,12379,0.9
+239,MUNDIPHARMA RESEARCH,UK,Pharmaceuticals & Biotechnology,88.6,3.1,81.2,109.1,2.5,,  ,0.0,9.8,2.1,9.0,262,2.7
+240,INDAP SWEDEN,Sweden,Health Care Equipment & Services,87.3,11.0,6.9,1263.1,0.6,,  ,0.0,8.6,-85.2,0.7,7243,-0.7
+241,OLD MUTUAL,UK,Life Insurance,86.1,-16.3,2.1,4070.0,4.4,,  ,0.0,-8691.3,-458.2,-213.5,,-100.0
+242,KONE,Finland,Industrial Engineering,86.1,4.4,1.4,6276.8,20.1,113.4,23.1,1.8,821.3,13.3,13.1,39851,6.2
+243,FRESENIUS MEDICAL CARE,Germany,Health Care Equipment & Services,86.0,0.0,0.8,10459.5,7.9,511.8,13.0,4.9,1654.0,5.2,15.8,86153,8.8
+244,HERAEUS,Germany,Industrial Metals & Mining,83.9,10.2,0.4,20216.9,-22.8,,  ,0.0,351.4,-25.5,1.7,13523,  
+245,RED BULL TECHNOLOGY,UK,Automobiles & Parts,83.7,18.2,32.5,257.4,20.8,,  ,0.0,4.9,9.8,1.9,605,1.7
+246,BETFAIR,UK,Travel & Leisure,83.6,-11.3,18.1,462.9,-0.7,8.6,-49.9,1.9,-82.5,-303.2,-17.8,2066,-8.7
+247,REPSOL YPF,Spain,Oil & Gas Producers,83.0,1.2,0.1,57193.0,-4.9,3424.0,-37.9,6.0,4144.0,-13.0,7.2,29985,-35.6
+248,WILLIAM DEMANT,Denmark,Health Care Equipment & Services,82.1,2.9,7.2,1145.8,6.4,44.1,-19.2,3.8,220.7,-3.6,19.3,8025,8.6
+249,STORA ENSO,Finland,Forestry & Paper,81.8,-1.2,0.8,10814.8,-1.4,560.7,36.9,5.2,685.6,-9.2,6.3,28777,2.9
+250,SALZGITTER,Germany,Industrial Metals & Mining,81.7,3.5,0.8,10397.2,5.7,320.8,-11.6,3.1,61.1,-75.6,0.6,23247,-0.5
+251,ALFA LAVAL,Sweden,Industrial Engineering,81.6,9.2,2.3,3473.9,4.1,61.9,-4.3,1.8,509.4,-6.8,14.7,16060,9.5
+252,ANDRITZ,Austria,Industrial Engineering,78.2,19.1,1.5,5176.9,12.6,109.1,41.8,2.1,333.0,4.7,6.4,17865,6.7
+253,SCHOTT,Germany,Construction & Materials,78.2,-22.3,3.9,2008.7,-5.3,,  ,0.0,134.8,-35.7,6.7,16698,-1.9
+254,INDUSTRIA DE TURBO PROPULSORES,Spain,Aerospace & Defence,76.9,-25.6,6.6,1163.1,1.5,,  ,0.0,93.2,2.8,8.0,,-100.0
+255,PRYSMIAN,Italy,Electronic & Electrical Equipment,76.0,1.3,1.0,7848.0,3.5,132.0,-2.2,1.7,348.0,258.8,4.4,19896,-7.7
+256,BELGACOM,Belgium,Fixed Line Telecommunications,76.0,8.6,2.4,3135.0,100.4,371.0,92.2,11.8,479.0,92.4,15.3,15778,-0.1
+257,EDENRED,France,Support Services,76.0,123.5,7.1,1067.0,3.4,,  ,0.0,344.0,-1.4,32.2,5915,3.7
+258,SORIN,Italy,Health Care Equipment & Services,75.5,7.7,10.3,731.1,-1.7,22.7,-9.4,3.1,47.0,-48.9,6.4,3727,-0.6
+259,GROUPE SEB,France,Household Goods & Home Construction,75.4,9.8,1.9,4059.7,2.4,111.3,-0.5,2.7,367.6,-8.6,9.1,24758,3.2
+260,NEXANS,France,Electronic & Electrical Equipment,75.0,0.0,1.0,7178.0,3.7,166.0,12.2,2.3,144.0,-12.2,2.0,25080,2.1
+261,GN STORE NORD,Denmark,Technology Hardware & Equipment,73.8,10.0,8.8,837.2,12.3,24.6,78.6,2.9,109.3,-35.0,13.1,4750,1.6
+262,TRANSMISSIONS AND ENGINEERING SERVICES NETHERLANDS,The Netherlands,Industrial Engineering,73.4,5.5,2.7,2715.8,-16.4,,  ,0.0,288.1,-12.5,10.6,8811,5.7
+263,LOTTOMATICA,Italy,Travel & Leisure,72.2,22.8,2.3,3075.7,3.4,10.2,-2.0,0.3,583.3,12.0,19.0,8582,6.8
+264,DELHAIZE,Belgium,Food & Drug Retailers,71.0,22.4,0.3,22758.0,7.8,596.0,-11.7,2.6,395.0,-51.9,1.7,,  
+265,AXIS,Sweden,Technology Hardware & Equipment,71.0,25.2,14.6,487.5,16.9,5.2,-0.4,1.1,70.5,-1.4,14.5,1278,20.3
+266,PHOENIX CONTACT,Germany,Electronic & Electrical Equipment,71.0,12.8,4.6,1532.1,12.4,,  ,0.0,214.6,-12.6,14.0,10868,7.6
+267,HAGER,Germany,Industrial Engineering,70.9,16.6,5.2,1375.1,8.8,,  ,0.0,118.8,-6.2,8.6,11019,13.4
+268,SWEDISH ROAD ADMINISTRATION,Sweden,Industrial Transportation,70.9,1.1,8.1,873.9,0.0,,  ,0.0,,  ,0.0,7500,0.0
+269,ELEKTA,Sweden,Health Care Equipment & Services,70.8,14.3,5.9,1204.7,14.3,25.5,71.1,2.1,237.9,15.0,19.8,3336,5.5
+270,LFB,France,Pharmaceuticals & Biotechnology,70.3,-11.3,15.1,465.7,7.7,,  ,0.0,10.1,-234.8,2.2,,-100.0
+271,CARGOTEC,Finland,Industrial Engineering,70.0,26.4,2.1,3327.3,6.0,86.5,12.9,2.6,123.1,-40.0,3.7,10294,-5.8
+272,FRIESLANDCAMPINA INTERNATIONAL HOLDING,The Netherlands,Food Producers,70.0,6.1,1.4,5042.0,4.6,,  ,0.0,261.0,-31.7,5.2,12542,-2.3
+273,WARNER CHILCOTT,Ireland,Pharmaceuticals & Biotechnology,69.7,-11.4,3.6,1925.9,-6.9,47.7,36.2,2.5,554.0,14.2,28.8,2100,-4.5
+274,AIXTRON,Germany,Technology Hardware & Equipment,69.6,43.8,30.5,227.8,-62.7,15.8,-42.0,6.9,-125.3,-208.9,-55.0,964,-1.4
+275,BEKAERT,Belgium,Industrial Metals & Mining,69.4,-23.0,2.0,3460.6,3.6,123.4,-53.7,3.6,105.4,-62.7,3.0,22549,0.6
+276,DYSON TECHNOLOGY,UK,General Industrials,69.2,-3.5,42.3,163.9,8.8,,  ,0.0,72.8,20.8,44.5,640,20.3
+277,LVMH,France,Personal Goods,69.0,9.5,0.2,28103.0,18.8,1710.0,-2.2,6.1,5739.0,11.4,20.4,,-100.0
+278,BANK OF IRELAND,UK,Banks,69.0,4.5,4.1,1677.0,-21.1,,  ,0.0,-2166.0,867.0,-129.2,13091,-4.2
+279,TECHNIP,France,"Oil Equipment, Services & Distribution",68.7,5.2,0.8,8203.9,20.4,503.2,48.3,6.1,807.2,16.9,9.8,36508,17.4
+280,AMER SPORTS,Finland,Leisure Goods,68.2,8.6,3.3,2064.0,9.7,44.1,0.0,2.1,132.8,-1.8,6.4,7186,1.8
+281,SCOTTISH AND SOUTHERN ENERGY,UK,Electricity,67.8,19.9,0.2,33852.3,-10.8,1558.7,-13.2,4.6,947.6,50.7,2.8,19795,1.6
+282,ZUMTOBEL,Austria,Electronic & Electrical Equipment,66.9,21.5,5.4,1243.6,-2.9,59.5,4.1,4.8,21.7,-38.0,1.7,7162,-3.9
+283,STADA ARZNEIMITTEL,Germany,Pharmaceuticals & Biotechnology,66.6,11.8,3.6,1837.5,7.1,30.3,37.8,1.6,231.4,78.5,12.6,7761,-1.8
+284,ADVA,Germany,Technology Hardware & Equipment,65.6,8.4,19.9,330.1,6.2,9.2,22.6,2.8,18.8,42.6,5.7,1378,5.7
+285,KASPERSKY LABS,UK,Software & Computer Services,65.5,7.8,15.7,416.6,18.1,,  ,0.0,23.1,-60.0,5.5,2298,41.7
+286,SPIRENT COMMUNICATIONS,UK,Technology Hardware & Equipment,65.3,-2.3,16.7,391.3,-2.3,,-100.0,0.0,86.7,-6.3,22.2,1545,0.3
+287,KONTRON,Germany,Technology Hardware & Equipment,65.1,8.9,11.9,547.0,-7.2,6.9,2.6,1.3,-32.3,-195.7,-5.9,2208,-27.8
+288,DEUTSCHE POST,Germany,Industrial Transportation,65.0,-33.7,0.1,55512.0,5.1,1639.0,-4.5,3.0,2600.0,8.7,4.7,428129,1.1
+289,BANG & OLUFSEN,Denmark,Leisure Goods,63.7,0.9,16.9,376.9,-6.4,11.2,-38.7,3.0,-25.2,-264.9,-6.7,2089,2.8
+290,RECORDATI,Italy,Pharmaceuticals & Biotechnology,63.4,13.3,7.7,828.3,8.7,13.3,38.1,1.6,159.7,-2.3,19.3,3369,5.1
+291,POSTEN NORDEN,Sweden,Industrial Transportation,63.3,30.5,1.4,4535.1,-1.4,,  ,0.0,41.8,-77.2,0.9,39713,-4.8
+292,CHRISTIAN DIOR,France,Personal Goods,63.0,37.0,0.2,29881.0,232.3,1794.0,  ,6.0,5973.0,245.5,20.0,108546,7.7
+293,TENARIS,Luxembourg,"Oil Equipment, Services & Distribution",62.9,21.3,0.8,8211.3,8.6,598.6,-8.5,7.3,1786.1,24.4,21.8,26673,-1.1
+294,DEUTZ,Germany,Industrial Engineering,62.1,-26.6,4.8,1291.9,-15.5,96.4,-1.4,7.5,22.6,-73.8,1.7,3991,-1.7
+295,COFIDE,Italy,General Industrials,62.1,57.8,1.2,5063.0,11.9,204.7,53.3,4.0,73.1,-72.5,1.4,14109,-6.8
+296,SOGEFI,Italy,Automobiles & Parts,62.1,57.9,4.7,1319.2,13.9,45.2,24.8,3.4,92.7,15.4,7.0,6735,10.6
+297,PINAFORE,The Netherlands,Support Services,62.0,-23.6,2.7,2302.0,-35.1,,  ,0.0,136.0,-29.0,5.9,22541,-16.4
+298,FINCANTIERI,Italy,Industrial Engineering,62.0,12.7,2.7,2301.0,-0.7,,  ,0.0,13.0,-395.5,0.6,10227,4.3
+299,ALLIED IRISH BANKS,Ireland,Banks,62.0,129.6,13.4,462.0,-67.6,,  ,0.0,-3830.0,-25.0,-829.0,14708,-12.0
+300,HUGO BOSS,Germany,Personal Goods,61.9,15.1,2.6,2345.9,13.9,147.8,36.2,6.3,433.2,9.9,18.5,11852,7.7
+301,WILLIAMS GRAND PRIX,UK,Travel & Leisure,61.7,7.3,40.3,153.2,20.0,,  ,0.0,-6.1,-166.9,-4.0,616,19.6
+302,NEUROSEARCH,Denmark,Pharmaceuticals & Biotechnology,61.2,-4.6,378.7,16.2,  ,,-100.0,0.0,-38.8,-32.7,-240.2,86,-61.3
+303,DEUTSCHE BAHN,Germany,Travel & Leisure,61.0,38.6,0.2,39296.0,3.5,,  ,0.0,2529.0,16.2,6.4,286237,1.4
+304,ANGLO AMERICAN,UK,Mining,60.6,110.5,0.3,21798.5,-5.9,4249.7,-9.6,19.5,104.6,-98.7,0.5,106,6.0
+305,KBC,Belgium,Banks,60.0,-13.0,0.8,7937.0,11.9,,  ,0.0,976.0,24.2,12.3,48026,-6.1
+306,IMMSI,Italy,Automobiles & Parts,59.6,-13.0,4.1,1468.3,-9.2,79.4,25.9,5.4,83.5,-0.7,5.7,8727,7.1
+307,BIAL,Portugal,Pharmaceuticals & Biotechnology,59.1,2.8,24626.2,0.2,0.0,,  ,0.0,7.3,-172.0,3031.8,2,0.0
+308,EXPERIAN,UK,Support Services,58.4,-20.6,1.6,3585.0,5.4,87.2,36.9,2.4,802.6,0.7,22.4,17119,6.8
+309,ASTON MARTIN UK,UK,Automobiles & Parts,57.8,21.4,9.5,606.2,6.9,,  ,0.0,10.0,-76.3,1.7,1187,-0.1
+310,NEXTER,France,Aerospace & Defence,57.3,-7.6,7.7,742.0,-12.8,,  ,0.0,111.2,-21.7,15.0,,  
+311,NEOPOST,France,Technology Hardware & Equipment,57.2,30.6,5.3,1070.0,6.7,49.5,2.5,4.6,255.9,8.0,23.9,5940,6.6
+312,BHP BILLITON,UK,Mining,56.8,1.4,0.1,54741.6,0.7,13934.4,64.9,25.5,17626.2,-29.2,32.2,46370,13.8
+313,QUINTILES,UK,Pharmaceuticals & Biotechnology,56.2,14.5,8.3,674.5,8.7,,  ,0.0,87.5,82.7,13.0,1960,5.9
+314,GILDEMEISTER,Germany,Industrial Engineering,55.9,5.5,2.7,2037.4,20.7,56.3,27.6,2.8,147.4,22.8,7.2,6496,7.7
+315,ULTRA ELECTRONICS,UK,Aerospace & Defence,55.7,24.0,6.1,909.9,4.0,24.5,69.2,2.7,103.8,-10.1,11.4,4430,5.3
+316,DANIELI,Italy,Industrial Engineering,55.6,5.2,2.3,2368.6,-23.1,109.0,37.7,4.6,245.5,-24.6,10.4,10167,  
+317,AVG TECHNOLOGIES,The Netherlands,Software & Computer Services,55.5,58.5,15.6,356.0,30.7,17.9,57.5,5.0,80.4,17.3,22.6,915,5.2
+318,AKKA TECHNOLOGIES,France,Support Services,55.2,25.5,6.7,827.3,74.5,20.3,363.6,2.4,62.3,44.9,7.5,9645,57.8
+319,KOENIG & BAUER,Germany,Industrial Engineering,54.9,-5.2,4.2,1293.9,10.9,22.6,-36.7,1.7,18.2,40.0,1.4,6272,-2.0
+320,POSTE ITALIANE,Italy,Industrial Transportation,53.8,25.1,0.5,10530.8,10.5,,  ,0.0,-9181.3,28.0,-87.2,,-100.0
+321,RENISHAW,UK,Electronic & Electrical Equipment,53.2,7.0,12.8,414.9,4.5,33.5,-7.8,8.1,97.9,-1.5,23.6,3092,11.8
+322,CENTROTHERM PHOTOVOLTAICS,Germany,Alternative Energy,53.1,-7.7,7.6,698.5,11.9,66.7,212.7,9.5,-18.7,-124.8,-2.7,1928,33.1
+323,IMI,UK,Industrial Engineering,53.1,2.8,2.0,2619.2,2.8,46.8,-25.0,1.8,375.3,0.3,14.3,14592,1.3
+324,LEGO,Denmark,Leisure Goods,52.2,-5.1,1.7,3134.6,25.0,,  ,0.0,1065.0,40.3,34.0,10400,10.9
+325,GFK,Germany,Support Services,51.9,37.7,3.4,1514.7,10.2,36.0,36.5,2.4,134.7,-5.6,8.9,12224,8.9
+326,NOVOMATIC,Austria,Travel & Leisure,51.8,18.3,3.4,1536.7,10.8,,  ,0.0,288.9,13.5,18.8,,  
+327,SARTORIUS,Germany,Electronic & Electrical Equipment,51.3,9.7,6.1,845.7,15.4,41.6,7.1,4.9,111.6,17.4,13.2,5491,12.4
+328,ERAMET,France,Industrial Metals & Mining,51.0,8.5,1.5,3447.0,-4.3,655.0,36.2,19.0,88.0,-82.3,2.6,13677,-3.7
+329,SOMFY,France,Electronic & Electrical Equipment,50.9,7.4,5.1,989.6,3.9,42.2,0.6,4.3,118.1,1.1,11.9,8095,3.5
+330,KARL STORZ,Germany,Health Care Equipment & Services,50.3,-1.0,4.5,1122.4,8.2,,  ,0.0,84.7,20.8,7.5,5482,9.7
+331,JUNGHEINRICH,Germany,Industrial Engineering,49.9,32.8,2.2,2228.7,5.3,83.0,45.2,3.7,150.1,2.8,6.7,11261,5.1
+332,BOLIDEN,Sweden,Mining,49.8,13.6,1.1,4661.0,-0.8,483.7,4.0,10.4,474.2,-14.3,10.2,4795,8.4
+333,ITALCEMENTI,Italy,Construction & Materials,49.6,-10.1,1.1,4480.1,-5.1,352.9,-5.7,7.9,-133.3,-216.8,-3.0,18886,-5.1
+334,BTG,UK,Pharmaceuticals & Biotechnology,49.3,3.8,17.6,279.5,18.6,9.1,105.4,3.3,26.6,20.7,9.5,569,14.3
+335,ELRINGKLINGER,Germany,Automobiles & Parts,48.9,-4.3,4.3,1127.2,9.1,103.1,-8.5,9.1,136.1,4.1,12.1,6263,1.1
+336,WUSTENROT & WURTTEMBERGISCHE,Germany,Banks,48.8,-23.8,3.4,1455.7,-5.7,,  ,0.0,292.0,51.9,20.1,8328,-2.0
+337,CEGEDIM,France,Software & Computer Services,48.4,2.8,5.3,921.8,1.1,26.9,-9.3,2.9,-29.3,-136.8,-3.2,8118,-1.4
+338,SGL CARBON,Germany,Chemicals,48.3,16.9,2.8,1709.1,11.0,133.5,-3.8,7.8,101.5,-34.8,5.9,6686,3.7
+339,SOPHOS,UK,Software & Computer Services,48.3,7.2,17.7,273.5,19.5,,  ,0.0,-8.0,-154.1,-2.9,1648,4.8
+340,SOITEC,France,Technology Hardware & Equipment,48.2,16.1,18.3,262.9,-18.7,103.5,15.9,39.4,-193.0,308.7,-73.4,1613,3.6
+341,LANTIQ,Germany,Technology Hardware & Equipment,48.0,15.1,15.4,312.4,-5.6,,  ,0.0,-29.7,-18.3,-9.5,366,1.9
+342,BAVARIAN NORDIC,Denmark,Pharmaceuticals & Biotechnology,47.9,31.3,35.2,136.2,94.2,2.8,-33.1,2.1,-4.2,-89.7,-3.1,450,2.5
+343,F-SECURE,Finland,Software & Computer Services,47.2,0.4,30.0,157.2,7.6,11.1,-33.4,7.1,20.3,-14.1,12.9,970,10.5
+344,VINCI,France,Construction & Materials,47.0,0.0,0.1,39183.2,4.1,1994.1,7.0,5.1,3666.6,-1.6,9.4,192701,5.1
+345,SWEDISH ORPHAN BIOVITRUM,Sweden,Pharmaceuticals & Biotechnology,46.8,-27.7,20.9,224.1,0.6,0.6,-28.8,0.3,-5.2,-86.0,-2.3,514,-0.6
+346,PARROT,France,Technology Hardware & Equipment,46.7,44.6,16.7,280.5,13.3,17.3,101.7,6.2,31.5,-6.1,11.2,830,19.4
+347,CHR HANSEN,Denmark,Pharmaceuticals & Biotechnology,46.6,67.0,6.7,698.7,9.9,40.5,83.3,5.8,185.0,16.2,26.5,2425,0.6
+348,FLSMIDTH,Denmark,Industrial Engineering,46.5,2.4,1.4,3328.0,13.0,99.0,48.7,3.0,263.7,-8.3,7.9,15900,20.4
+349,PEARSON,UK,Media,45.4,-22.4,0.8,6050.6,-13.7,93.3,16.4,1.5,615.9,-57.0,10.2,42980,3.5
+350,EGO BLANC UND FISCHER &,Germany,Household Goods & Home Construction,45.4,10.3,4.9,924.9,3.3,,  ,0.0,48.5,-3.2,5.2,7614,-1.7
+351,FAGOR ELECTRODOMESTICOS,Spain,Household Goods & Home Construction,45.2,-13.2,3.9,1166.7,-8.7,,  ,0.0,-49.8,-366.4,-4.3,5673,-14.6
+352,NEMETSCHEK,Germany,Software & Computer Services,45.1,9.4,25.8,175.1,6.8,6.2,22.3,3.5,31.1,8.7,17.8,1229,4.8
+353,KSB,Germany,Industrial Engineering,45.0,6.5,2.0,2268.2,8.5,80.2,32.9,3.5,145.9,11.8,6.4,16207,3.4
+354,UPM-KYMMENE,Finland,Forestry & Paper,45.0,-10.0,0.4,10438.0,3.7,374.0,30.8,3.6,-1403.0,-425.5,-13.4,22068,-7.7
+355,EFFEM HOLDINGS,UK,Food Producers,44.9,50.1,1.4,3213.4,9.9,,  ,0.0,412.1,12.1,12.8,4770,5.9
+356,AURIGA INDUSTRIES,Denmark,Chemicals,44.7,2.0,5.3,838.7,9.4,15.7,1.1,1.9,65.1,54.7,7.8,2148,1.0
+357,AMARIN,UK,Pharmaceuticals & Biotechnology,44.7,172.9,  ,,  ,0.4,37.9,  ,-88.8,165.3,  ,111,258.1
+358,LUBRIZOL,UK,Chemicals,44.6,3.5,28.0,159.7,5.7,,  ,0.0,18.8,0.5,11.8,394,7.7
+359,KUKA,Germany,Industrial Engineering,44.3,-3.5,2.5,1739.2,21.1,26.1,48.3,1.5,109.1,65.3,6.3,7264,10.2
+360,ZELTIA,Spain,Pharmaceuticals & Biotechnology,43.9,-25.6,31.8,138.2,-9.3,2.0,-33.6,1.5,11.2,58.0,8.1,640,-4.2
+361,SOLARWORLD,Germany,Alternative Energy,43.9,88.9,7.2,606.0,-42.1,52.5,-71.0,8.7,-498.6,111.9,-82.3,2355,-12.8
+362,SIMCORP,Denmark,Software & Computer Services,43.8,5.3,21.0,209.2,7.4,0.6,-76.7,0.3,46.9,1.2,22.4,1075,2.6
+363,GAS TURBINE EFFICIENCY,UK,Industrial Engineering,43.8,80.6,0.8,5170.0,20.4,52.6,-4.1,1.0,269.4,209.9,5.2,33479,20.2
+364,LAIRD,UK,Electronic & Electrical Equipment,43.8,-9.0,7.0,622.2,-11.2,16.3,13.3,2.6,62.3,-155.0,10.0,9078,-8.4
+365,FINATIS,France,Real Estate Investment & Services,43.0,207.1,0.1,42665.0,21.7,1441.0,13.5,3.4,2482.0,80.9,5.8,321386,41.0
+366,TI FLUID SYSTEMS,UK,Automobiles & Parts,42.5,5.2,1.8,2364.4,9.5,,  ,0.0,172.5,9.2,7.3,22115,9.7
+367,CAIXA GENERAL DE DEPOSITOS,Portugal,Banks,42.3,-22.9,1.5,2910.1,-4.4,,  ,0.0,-367.5,-31.4,-12.6,23028,-0.5
+368,AZ ELECTRONIC MATERIALS,Luxembourg,Chemicals,42.3,3.3,7.0,601.7,0.3,35.1,0.0,5.8,114.2,0.0,19.0,1092,3.0
+369,SOPRA,France,Software & Computer Services,42.2,46.5,3.5,1216.7,15.9,6.8,-32.6,0.6,104.2,-8.4,8.6,14310,13.5
+370,TELIASONERA,Sweden,Fixed Line Telecommunications,42.2,-26.1,0.3,12223.0,0.1,1764.0,-13.7,14.4,3286.7,-4.4,26.9,26793,-0.8
+371,IPSOS,France,Media,42.1,41.8,2.4,1789.5,31.3,26.2,33.0,1.5,136.9,-13.3,7.6,15927,-3.9
+372,ACS,Spain,Construction & Materials,42.0,-15.0,0.1,38396.2,34.9,1749.2,-24.5,4.6,1575.8,18.6,4.1,161865,-1.9
+373,NESTE OIL,Finland,Oil & Gas Producers,42.0,0.0,0.2,17853.0,15.8,269.0,-21.1,1.5,275.0,5.4,1.5,5031,2.1
+374,COLOPLAST,Denmark,Health Care Equipment & Services,41.9,-18.1,2.8,1476.3,8.4,42.5,37.8,2.9,435.9,26.1,29.5,7875,6.8
+375,GROHE HOLDING,Germany,Industrial Engineering,41.8,23.3,3.6,1165.0,18.9,,  ,0.0,45.6,2.1,3.9,7032,35.8
+376,ARLA FOODS,Denmark,Food Producers,41.8,116.7,0.5,8452.8,15.0,,  ,0.0,325.3,45.9,3.8,18112,4.0
+377,SUDZUCKER,Germany,Food Producers,41.6,10.6,0.5,7878.8,12.7,338.2,22.5,4.3,971.2,27.4,12.3,17940,2.6
+378,AVIO,Italy,Aerospace & Defence,41.2,15.9,2.3,1768.8,0.9,,  ,0.0,182.2,8.0,10.3,5170,5775.0
+379,MICRO FOCUS INTERNATIONAL,UK,Software & Computer Services,41.2,-6.3,13.1,313.8,-4.8,2.5,-81.9,0.8,121.8,5.6,38.8,1206,1.3
+380,KPN,The Netherlands,Fixed Line Telecommunications,41.0,-28.1,0.3,12409.0,-4.7,1780.0,12.4,14.3,1599.0,-33.4,12.9,26156,-15.5
+381,CSM,The Netherlands,Food Producers,41.0,-1.4,1.2,3315.7,6.5,,-100.0,0.0,-72.7,-51.4,-2.2,9650,-2.0
+382,FORTUM,Finland,Electricity,41.0,7.9,0.7,6159.0,0.0,1422.0,10.7,23.1,1739.0,-25.9,28.2,10780,0.0
+383,NKT,Denmark,Electronic & Electrical Equipment,40.6,-16.1,2.0,2042.8,-2.2,48.7,-18.3,2.4,63.3,7.5,3.1,8867,-1.9
+384,AVEVA,UK,Software & Computer Services,40.0,13.3,15.2,263.4,12.4,4.6,48.5,1.8,76.4,11.0,29.0,1238,17.6
+385,ARQUES INDUSTRIES,Germany,Financial Services,39.6,-5.7,9.1,437.2,-16.0,8.8,-14.2,2.0,-31.7,-223.8,-7.2,1743,-7.0
+386,MORPHOSYS,Germany,Pharmaceuticals & Biotechnology,39.5,15.7,76.1,51.9,-36.7,1.0,-56.2,2.0,2.5,-74.6,4.8,422,-5.4
+387,SENSATA TECHNOLOGIES HOLDING,The Netherlands,Electronic & Electrical Equipment,39.5,16.8,2.7,1450.6,4.8,41.5,-39.0,2.9,210.3,-5.7,14.5,11300,-0.9
+388,BG,UK,Oil & Gas Producers,39.4,36.8,0.3,14349.7,-10.2,7559.5,-3.2,52.7,5726.1,-3.5,39.9,6568,1.5
+389,ENIRO,Sweden,Media,39.3,-6.1,8.4,466.0,-7.5,1.5,-53.6,0.3,56.0,253.7,12.0,3409,-7.4
+390,SVENSKA HANDELSBANKEN,Sweden,Banks,38.8,10.6,0.9,4084.6,6.9,,  ,0.0,1993.5,3.5,48.8,11192,0.1
+391,GRAMMER,Germany,Automobiles & Parts,38.4,-2.4,3.4,1143.6,4.6,31.7,-6.3,2.8,46.8,-3.1,4.1,8672,2.9
+392,FIDESSA,UK,Software & Computer Services,38.3,8.3,11.5,333.2,0.1,10.4,-40.0,3.1,50.1,-0.1,15.0,1767,1.1
+393,DANSKE BANK,Denmark,Banks,38.3,-28.1,0.6,6588.1,9.4,,  ,0.0,1147.5,103.8,17.4,20308,  
+394,ICAP,UK,Financial Services,38.3,-8.6,2.2,1735.4,-14.4,,  ,0.0,78.9,-69.6,4.5,4976,  
+395,PAUL HARTMANN,Germany,Health Care Equipment & Services,38.1,15.1,2.2,1758.4,3.5,49.8,-11.0,2.8,91.5,-23.1,5.2,10220,2.5
+396,TIETO,Finland,Software & Computer Services,38.0,-6.2,2.1,1825.3,-0.2,59.1,5.3,3.2,81.4,-16.9,4.5,16537,-8.8
+397,GUERBET,France,Pharmaceuticals & Biotechnology,37.8,-5.6,9.4,403.5,6.8,29.6,-20.7,7.3,35.8,56.7,8.9,1374,2.1
+398,WOLFSON MICROELECTRONICS,UK,Technology Hardware & Equipment,37.7,7.9,27.7,136.2,14.6,1.8,0.1,1.3,-7.3,-59.9,-5.3,421,1.4
+399,COMPUGROUP MEDICAL,Germany,Software & Computer Services,37.4,3.5,8.3,450.6,13.6,18.5,49.2,4.1,68.2,95.7,15.1,3517,5.9
+400,HALMA,UK,Electronic & Electrical Equipment,37.2,13.3,5.0,740.6,6.8,17.3,-4.8,2.3,140.3,6.2,18.9,4716,8.5
+401,DEXIA,Belgium,Banks,37.0,-36.2,  ,,  ,,  ,  ,-1726.0,-74.4,  ,2429,-82.7
+402,VECTURA,UK,Pharmaceuticals & Biotechnology,37.0,-5.8,101.3,36.5,-7.6,4.8,-4.8,13.1,-14.0,-15.8,-38.4,216,3.3
+403,WILO,Germany,Industrial Engineering,36.7,6.8,3.1,1187.1,10.9,,  ,0.0,119.7,22.6,10.1,6900,2.9
+404,JENOPTIK,Germany,Industrial Engineering,36.7,13.5,6.3,585.0,7.7,24.5,6.9,4.2,47.2,-2.7,8.1,3272,13.1
+405,GENUS,UK,Pharmaceuticals & Biotechnology,36.5,15.5,8.9,408.8,10.3,8.7,108.6,2.1,65.2,22.2,15.9,2189,5.2
+406,IMA INDUSTRIA MACCHINE AUTOMATICHE,Italy,Industrial Engineering,36.1,9.4,4.9,734.3,9.7,9.0,4.6,1.2,86.2,26.8,11.7,3545,2.2
+407,CONSTELLIUM,The Netherlands,Industrial Metals & Mining,36.0,9.1,1.0,3610.0,1.5,126.0,29.9,3.5,202.0,304.0,5.6,8845,-0.6
+408,DE LONGHI,Italy,Household Goods & Home Construction,35.9,-23.5,2.4,1506.0,7.1,53.4,45.0,3.5,214.6,10.3,14.2,5865,-20.4
+409,ENBW ENERGIE BADEN-WURTTEMBERG,Germany,Electricity,35.8,-4.8,0.2,19245.9,2.4,816.8,-30.3,4.2,1444.6,3013.4,7.5,19998,-1.5
+410,NORDEX,Germany,Alternative Energy,35.2,-39.8,3.3,1075.3,16.8,54.6,11.5,5.1,-46.9,60.3,-4.4,2557,-3.1
+411,KTM,Austria,Automobiles & Parts,35.2,22.1,5.7,612.0,16.2,56.2,49.0,9.2,36.6,18.0,6.0,1647,0.9
+412,MOLNLYCKE HEALTH CARE,Sweden,Health Care Equipment & Services,35.1,16.5,3.8,917.1,2.5,,  ,0.0,190.5,1.6,20.8,0,-100.0
+413,ALK ABELLO,Denmark,Pharmaceuticals & Biotechnology,35.1,-40.7,11.2,314.1,-0.1,24.5,55.1,7.8,24.4,-39.1,7.8,1855,4.2
+414,OUTOTEC,Finland,Industrial Engineering,35.0,45.2,1.7,2087.4,50.6,20.4,15.9,1.0,184.2,65.2,8.8,4805,23.7
+415,PLAYTECH,UK,Software & Computer Services,34.7,51.7,10.9,317.5,53.0,8.0,-36.3,2.5,87.5,67.7,27.5,2828,62.8
+416,TRELLEBORG,Sweden,General Industrials,34.6,-42.0,1.4,2477.5,-26.9,98.7,-21.1,4.0,289.3,2.1,11.7,16702,-17.6
+417,WACKER NEUSON,Germany,Industrial Engineering,34.6,131.2,3.2,1091.7,10.1,93.9,-10.1,8.6,85.6,-28.4,7.8,3958,12.6
+418,BIOTEST,Germany,Pharmaceuticals & Biotechnology,34.2,8.2,7.8,440.0,4.3,34.5,29.2,7.8,46.5,10.3,10.6,1727,3.9
+419,ELMOS SEMICONDUCTOR,Germany,Technology Hardware & Equipment,34.1,-2.2,18.9,180.1,-7.3,10.9,-31.9,6.1,11.7,-55.4,6.5,1034,4.7
+420,AUSTRIAMICROSYSTEMS,Austria,Technology Hardware & Equipment,34.1,28.7,8.8,387.6,40.6,31.9,80.6,8.2,85.4,98.0,22.0,1282,7.5
+421,UNIBET,Malta,Travel & Leisure,33.9,27.2,14.4,235.8,27.7,5.4,57.1,2.3,41.1,-16.5,17.4,715,35.2
+422,KEMIRA,Finland,Chemicals,33.8,10.5,1.5,2240.9,1.5,133.7,36.0,6.0,31.7,-78.5,1.4,4857,-3.0
+423,INDUSTRIAL AND FINANCIAL SYSTEMS,Sweden,Software & Computer Services,33.8,12.8,10.8,311.8,3.9,2.8,-29.4,0.9,23.3,-13.4,7.5,2723,-3.2
+424,BE SEMICONDUCTOR INDUSTRIES,The Netherlands,Technology Hardware & Equipment,33.8,6.6,12.3,273.7,-16.3,4.9,-33.3,1.8,20.8,-40.0,7.6,1520,-1.5
+425,MANZ AUTOMATION,Germany,Industrial Engineering,33.7,37.7,18.3,184.1,-23.5,39.5,55.5,21.5,-30.7,-1085.2,-16.7,1958,3.1
+426,SAFT,France,Electronic & Electrical Equipment,33.6,13.5,5.6,598.0,3.6,44.6,-23.9,7.5,68.6,-15.0,11.5,4066,-1.3
+427,RENESOLA,UK,Electronic & Electrical Equipment,33.4,-6.3,4.6,734.5,-1.6,103.4,2.7,14.1,-135.7,-833.7,-18.5,8436,11.1
+428,BENETTON,Italy,Personal Goods,33.0,3.1,1.6,2021.0,-1.1,,  ,0.0,182.8,3.0,9.0,9557,0.9
+429,HYBRID AIR VEHICLES,UK,Automobiles & Parts,32.8,  ,92.6,35.5,  ,,  ,0.0,0.8,  ,2.4,36,  
+430,CEGID,France,Software & Computer Services,32.8,2.4,12.7,258.1,-2.2,1.8,-46.7,0.7,26.2,-7.3,10.1,2155,-2.3
+431,YOUVIEW TV,UK,Media,32.8,106.7,83.9,39.1,61.8,,  ,0.0,0.9,66.7,2.3,29,93.3
+432,DURR,Germany,Industrial Engineering,32.7,16.4,1.4,2399.8,24.9,22.4,67.4,0.9,177.1,68.9,7.4,7652,12.2
+433,LCH CLEARNET,UK,Financial Services,32.6,-51.9,7.8,417.6,24.8,,  ,0.0,91.3,160.1,21.9,767,6.7
+434,MELEXIS,Belgium,Technology Hardware & Equipment,32.6,17.0,13.2,247.0,7.1,20.7,42.0,8.4,55.9,2.6,22.6,794,11.8
+435,PHARMATHEN,Greece,Pharmaceuticals & Biotechnology,32.5,1.1,21.8,149.3,37.6,,  ,0.0,17.6,3.8,11.8,409,21.0
+436,AXWAY SOFTWARE,France,Software & Computer Services,32.5,1.3,14.5,224.3,3.3,6.2,79.2,2.8,31.3,0.7,13.9,1774,1.1
+437,HOMAG,Germany,Industrial Engineering,32.3,4.1,4.2,767.0,-4.0,,  ,0.0,38.4,76.6,5.0,5075,-0.7
+438,DATALOGIC,Italy,Electronic & Electrical Equipment,32.0,15.7,6.9,462.3,8.6,9.1,37.5,2.0,16.2,-55.4,3.5,2384,-1.8
+439,MAINOVA,Germany,"Gas, Water & Multi-utilities",32.0,10.3,1.6,1983.9,11.1,127.5,-5.3,6.4,29.2,-23.6,1.5,2943,-0.9
+440,LKAB,Sweden,Mining,31.9,-15.2,1.0,3142.7,-13.3,,  ,0.0,1234.6,-27.9,39.3,4357,4.0
+441,LEONHARD KURZ STIFTUNG,Germany,General Industrials,31.9,4.3,5.7,559.3,7.3,,  ,0.0,54.0,-22.4,9.7,3866,5.1
+442,K+S,Germany,Chemicals,31.8,76.7,0.8,3935.3,-23.6,399.0,56.2,10.1,851.6,-10.3,21.6,14362,-0.9
+443,ESS,Sweden,Pharmaceuticals & Biotechnology,31.8,106.9,15156.9,0.2,136.2,,  ,0.0,-40.7,94.5,-19399.3,115,69.1
+444,KAPSCH TRAFFICCOM,Austria,Electronic & Electrical Equipment,31.7,5.3,6.5,488.9,-11.1,12.7,19.1,2.6,19.5,-53.8,4.0,3013,11.4
+445,ENERGIAS DE PORTUGAL,Portugal,Electricity,31.7,-51.6,0.2,16339.9,8.1,2119.0,-8.3,13.0,2134.6,-5.9,13.1,12275,0.5
+446,MICRONIC MYDATA,Sweden,Technology Hardware & Equipment,31.4,7.2,19.9,157.8,13.1,1.0,-64.3,0.6,-1.2,-85.3,-0.7,560,-0.2
+447,ACTIVE BIOTECH,Sweden,Pharmaceuticals & Biotechnology,31.1,-16.2,117.2,26.6,-2.8,0.0,-96.8,0.0,-19.0,61.7,-71.6,,  
+448,METASWITCH NETWORKS,UK,Software & Computer Services,30.7,-38.8,32.6,94.2,-16.4,,  ,0.0,-21.1,-404.8,-22.4,698,11.1
+449,MIBA,Austria,Automobiles & Parts,30.7,-10.5,5.1,606.6,2.4,51.0,8.0,8.4,71.9,7.2,11.8,4153,5.8
+450,GLEN ELECTRIC,UK,Household Goods & Home Construction,30.7,7.7,3.0,1008.4,0.5,,  ,0.0,80.6,-16.0,8.0,5160,-1.0
+451,LATECOERE,France,Aerospace & Defence,30.6,-18.2,4.8,643.6,11.8,14.0,67.9,2.2,29.7,-35.8,4.6,4288,2.7
+452,ROCKWOOL INTERNATIONAL,Denmark,Construction & Materials,30.3,6.1,1.5,1963.9,6.7,120.3,-10.1,6.1,151.5,22.8,7.7,9411,5.8
+453,CEZ,Czech Republic,Electricity,30.2,-4.4,0.4,8555.5,2.5,2128.7,0.5,24.9,2322.2,0.8,27.1,31308,-0.4
+454,STANDARD LIFE,UK,Life Insurance,29.9,-34.2,0.6,5047.1,30.0,,  ,0.0,-14108.0,211.7,-279.5,,-100.0
+455,RBC DEXIA INVESTOR SERVICES,UK,Financial Services,29.8,-18.1,4.6,643.9,-24.8,,  ,0.0,12.9,-91.7,2.0,5618,2.0
+456,QINETIQ,UK,Support Services,29.8,60.6,1.9,1588.0,-9.6,32.4,23.2,2.0,-146.4,-133.7,-9.2,9498,-6.7
+457,WEIR,UK,Industrial Engineering,29.7,34.8,1.0,3035.8,10.7,147.8,29.6,4.9,561.4,13.6,18.5,13245,13.5
+458,CHEMRING,UK,Aerospace & Defence,29.4,16.0,3.3,885.4,-0.7,36.0,-38.3,4.1,40.9,-68.3,4.6,4215,-1.8
+459,VESUVIUS,UK,Industrial Engineering,29.3,5.6,1.3,2290.2,-32.2,95.7,-6.0,4.2,-192.9,-161.2,-8.4,14767,-8.4
+460,UNIT4,The Netherlands,Software & Computer Services,29.2,-48.5,6.2,469.8,5.4,,  ,0.0,23.0,-34.5,4.9,4382,3.2
+461,FUCHS PETROLUB,Germany,Chemicals,29.2,6.2,1.6,1819.1,10.1,71.4,93.0,3.9,293.7,11.5,16.1,3773,2.8
+462,WAGO,Germany,Electronic & Electrical Equipment,29.2,17.9,5.3,554.8,12.6,,  ,0.0,63.3,-4.6,11.4,4826,11.9
+463,NATS,UK,Industrial Transportation,29.2,11.4,2.7,1075.9,4.0,,  ,0.0,293.0,2.3,27.2,4562,0.6
+464,OXFORD INSTRUMENTS,UK,Electronic & Electrical Equipment,29.1,7.0,6.9,419.6,4.0,10.3,53.6,2.5,36.0,-14.0,8.6,1927,5.1
+465,BIC,France,Household Goods & Home Construction,29.1,20.9,1.5,1898.7,4.1,109.5,43.6,5.8,365.2,8.2,19.2,9256,0.6
+466,NOLATO,Sweden,Chemicals,28.9,18.7,6.4,451.4,30.1,18.3,19.8,4.1,33.4,53.5,7.4,8421,53.2
+467,VELOXIS PHARMACEUTICALS,Denmark,Pharmaceuticals & Biotechnology,28.8,-0.7,3128.7,0.9,  ,0.0,-91.3,3.8,-35.1,-2.8,-3818.0,48,-7.7
+468,ION BEAM APPLICATIONS,Belgium,Health Care Equipment & Services,28.4,-12.5,12.8,221.1,8.8,2.3,-90.8,1.1,-11.1,250.3,-5.0,1260,-42.8
+469,JAMES HARDIE INDUSTRIES,Ireland,Construction & Materials,28.2,22.4,2.8,1001.4,6.8,46.3,70.7,4.6,23.7,-80.3,2.4,2738,5.1
+470,NAPP PHARMACEUTICAL,UK,Pharmaceuticals & Biotechnology,28.0,45.0,8.5,329.0,8.6,,  ,0.0,59.8,29.7,18.2,829,-3.0
+471,VAISALA,Finland,Electronic & Electrical Equipment,28.0,0.0,9.5,293.3,7.2,3.3,-75.2,1.1,29.8,82.8,10.2,1422,2.6
+472,GALDERMA,Sweden,Pharmaceuticals & Biotechnology,27.9,36.2,15.0,186.3,15.3,,  ,0.0,44.6,365.7,23.9,594,-4.0
+473,INSIDE SECURE,France,Electronic & Electrical Equipment,27.5,-13.9,29.8,92.5,-19.4,1.6,-51.5,1.7,-26.7,44.1,-28.9,460,20.7
+474,WITTINGTON INVESTMENTS,UK,Food Producers,27.5,-4.2,0.2,14795.7,10.4,,  ,0.0,1047.7,3.5,7.1,107046,4.0
+475,EPPENDORF,Germany,Health Care Equipment & Services,27.5,10.7,5.3,520.2,8.9,,  ,0.0,101.5,11.5,19.5,2650,2.5
+476,SSAB,Sweden,Industrial Metals & Mining,27.4,5.4,0.6,4535.4,-12.8,166.7,-54.0,3.7,7.9,-97.3,0.2,8695,-1.5
+477,ENRICHMENT TECHNOLOGY,UK,Industrial Engineering,27.3,0.1,3.9,696.2,145.8,,  ,0.0,32.1,-419.7,4.6,2150,11.3
+478,VALIO,Finland,Food Producers,27.3,0.0,1.4,1999.7,3.7,,  ,0.0,69.0,-8.2,3.4,4600,1.6
+479,AEROPORTS DE PARIS,France,Industrial Transportation,27.2,-7.7,1.0,2640.5,5.6,615.0,  ,23.3,701.9,0.5,26.6,9035,-0.6
+480,LUDWIG KROHNE,Germany,Industrial Engineering,27.2,20.5,7.1,383.7,25.6,,  ,0.0,36.4,42.6,9.5,2096,-18.2
+481,EDWARDS GROUP,UK,Industrial Engineering,26.6,-16.9,3.2,837.8,8.9,,  ,0.0,122.4,34.6,14.6,3227,15.3
+482,EXACT,The Netherlands,Software & Computer Services,26.4,6.1,12.2,217.1,0.7,2.0,33.8,0.9,30.6,28.3,14.1,1653,-7.4
+483,WIRECARD,Germany,Electronic & Electrical Equipment,26.4,20.1,6.7,394.6,21.5,50.5,35.9,12.8,93.6,23.3,23.7,674,35.3
+484,SDL,UK,Software & Computer Services,26.1,47.6,8.1,322.1,17.6,6.5,39.6,2.0,31.8,-16.7,9.9,2750,20.7
+485,MONITISE,UK,Software & Computer Services,26.1,85.1,60.4,43.2,157.0,3.8,36.6,8.7,-16.5,-20.9,-38.3,321,111.2
+486,RAUTARUUKKI,Finland,Industrial Metals & Mining,26.0,-10.3,0.9,2796.0,-0.1,89.0,-45.7,3.2,-104.0,-572.7,-3.7,11214,-5.1
+487,HIKMA PHARMACEUTICALS,UK,Pharmaceuticals & Biotechnology,25.8,9.0,3.1,840.3,20.8,39.0,-25.5,4.6,129.5,46.3,15.4,6649,7.9
+488,MUEHLBAUER,Germany,Electronic & Electrical Equipment,25.7,-3.5,10.8,237.2,11.2,21.2,-18.8,8.9,16.7,-39.2,7.0,2762,5.5
+489,KOFAX,UK,Software & Computer Services,25.6,7.3,8.2,313.9,7.6,3.8,0.7,1.2,26.3,-20.8,8.4,1122,14.1
+490,WENDEL,France,Financial Services,25.3,-5.9,0.4,6702.0,12.6,472.5,21.2,7.1,642.8,12.9,9.6,70725,1273.8
+491,3W POWER,Luxembourg,Alternative Energy,25.2,56.6,6.8,368.0,-14.1,7.5,-36.6,2.0,-190.7,-1596.8,-51.8,1622,-7.2
+492,DIAGEO,UK,Beverages,25.1,16.7,0.2,13673.8,6.2,769.0,32.9,5.6,3998.2,6.3,29.2,28410,10.6
+493,OREXO,Sweden,Pharmaceuticals & Biotechnology,25.1,10.9,66.0,38.0,63.5,0.7,21.8,1.8,-9.3,-79.7,-24.3,111,0.9
+494,KONECRANES,Finland,Industrial Engineering,25.1,-13.1,1.2,2170.2,14.4,59.3,11.3,2.7,131.9,24.1,6.1,12147,4.3
+495,LEUZE GESCHAEFTSFUEHRUNGS,Germany,Support Services,25.0,10.8,9.1,275.2,25.3,,  ,0.0,15.0,54.9,5.5,1517,5.1
+496,WESTLB,Germany,Banks,25.0,-10.7,7.3,342.0,-72.9,,  ,0.0,-1356.0,-3764.9,-396.5,2776,-37.3
+497,DE MASTER BLENDERS 1753,The Netherlands,Beverages,25.0,19.0,0.9,2795.0,7.8,97.3,25.6,3.5,109.7,-66.3,3.9,7619,1.5
+498,DIASORIN,Italy,Pharmaceuticals & Biotechnology,24.9,18.5,5.7,433.8,-1.4,4.4,-83.6,1.0,141.3,-13.5,32.6,1558,3.0
+499,MEDIVIR,Sweden,Pharmaceuticals & Biotechnology,24.9,15.8,38.4,64.7,-20.5,1.2,-38.2,1.9,-21.6,-266.1,-33.5,164,-3.5
+500,VOSSLOH,Germany,Industrial Engineering,24.8,-1.6,2.0,1243.0,3.8,58.5,-10.8,4.7,98.0,4.5,7.9,5022,0.2
+501,VERITAS,Germany,Automobiles & Parts,24.8,8.2,4.2,589.0,1.6,,  ,0.0,22.2,-26.7,3.8,3573,9.6
+502,AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK,Austria,Electronic & Electrical Equipment,24.7,-25.0,4.6,541.7,5.3,44.0,-61.2,8.1,32.2,-23.4,5.9,7321,-1.3
+503,LOEWE,Germany,Electronic & Electrical Equipment,24.7,7.9,9.9,250.0,-8.8,24.6,47.3,9.8,-30.2,123.8,-12.1,1004,-1.8
+504,VISTAPRINT,The Netherlands,Support Services,24.5,28.6,2.8,884.9,14.4,59.9,70.2,6.8,35.0,-19.8,4.0,3900,11.4
+505,NUTRECO,The Netherlands,Food Producers,24.4,22.6,0.4,5453.1,15.5,118.3,21.3,2.2,263.4,33.5,4.8,9654,3.3
+506,HUNTER DOUGLAS,The Netherlands,Household Goods & Home Construction,24.3,-5.9,1.3,1916.8,-1.7,57.6,-31.5,3.0,90.2,6.2,4.7,16631,0.8
+507,THULE,Sweden,Automobiles & Parts,24.2,26.1,3.6,675.6,3.7,,  ,0.0,73.2,-7.1,10.8,3229,2.6
+508,OBRASCON HUARTE LAIN,Spain,Construction & Materials,24.1,10.0,0.6,4029.6,-17.3,1182.3,113.1,29.3,882.3,-8.8,21.9,,-100.0
+509,TEOLLISUUDEN VOIMA,Finland,Electricity,24.1,-5.1,6.8,352.2,-0.1,,  ,0.0,38.1,-12.8,10.8,884,3.6
+510,NIBE INDUSTRIER,Sweden,Industrial Engineering,23.9,29.2,2.2,1071.1,12.9,26.0,-13.8,2.4,111.8,8.3,10.4,8006,16.1
+511,SAME DEUTZ-FAHR,Italy,Industrial Engineering,23.8,19.3,2.0,1187.8,6.6,,  ,0.0,71.9,16.0,6.1,2604,5.6
+512,ZEALAND PHARMA,Denmark,Pharmaceuticals & Biotechnology,23.8,44.2,79.4,29.9,57.1,1.2,-22.9,4.0,4.3,269.7,14.5,104,14.3
+513,INDESIT,Italy,Household Goods & Home Construction,23.7,2.2,0.8,2886.0,2.1,121.9,12.9,4.2,132.6,-11.8,4.6,16331,1.4
+514,STALLERGENES,France,Pharmaceuticals & Biotechnology,23.7,-7.4,9.9,239.8,2.1,9.5,-44.6,3.9,67.2,3.5,28.0,1057,7.0
+515,CS COMMUNICATION & SYSTEMES,France,Software & Computer Services,23.6,19.2,13.7,172.8,2.1,2.4,0.1,1.4,2.5,-143.1,1.4,1733,-5.2
+516,ANITE,UK,Software & Computer Services,23.6,16.1,14.9,158.5,8.1,5.9,74.6,3.7,32.1,19.2,20.2,538,9.3
+517,BRAINLAB,Germany,Health Care Equipment & Services,23.6,-0.6,11.7,200.9,-4.0,,  ,0.0,20.1,-51.5,10.0,974,5.1
+518,BIOINVENT INTERNATIONAL,Sweden,Pharmaceuticals & Biotechnology,23.5,23.1,469.8,5.0,-65.5,0.0,-98.8,0.1,-22.3,167.1,-445.6,76,-14.6
+519,MORGAN CRUCIBLE,UK,General Industrials,23.4,44.1,1.9,1205.0,-8.5,35.2,2.4,2.9,150.1,-21.7,12.5,10033,0.0
+520,CRODA INTERNATIONAL,UK,Chemicals,23.4,-18.0,1.9,1258.1,-1.5,60.3,-9.8,4.8,307.6,5.1,24.5,3272,2.6
+521,ROYAL TEN CATE,The Netherlands,General Industrials,23.2,81.3,2.2,1049.0,-7.9,12.0,-43.7,1.1,37.2,-60.0,3.5,4454,2.3
+522,SWEDBANK,Sweden,Banks,23.0,45.1,0.5,4174.2,7.6,,  ,0.0,2155.4,19.9,51.6,14861,-8.8
+523,RHI,Austria,Industrial Engineering,22.7,1.3,1.2,1835.7,4.4,167.9,93.9,9.1,168.6,10.3,9.2,8097,2.2
+524,LISI,France,Industrial Engineering,22.7,20.1,2.1,1081.3,16.9,79.3,21.6,7.3,102.5,30.8,9.5,8909,4.7
+525,FIVES,France,Industrial Engineering,22.7,18.0,1.8,1268.3,20.9,,  ,0.0,76.2,28.9,6.0,,  
+526,GENMAB,Denmark,Pharmaceuticals & Biotechnology,22.6,  ,34.8,64.9,38.1,1.2,24.9,1.9,-15.6,-80.3,-24.1,179,0.0
+527,MGI COUTIER,France,Automobiles & Parts,22.6,-17.7,3.4,669.9,25.5,32.8,39.7,4.9,42.6,31.1,6.4,7514,-6.3
+528,EVS BROADCAST EQUIPMENT,Belgium,Electronic & Electrical Equipment,22.3,20.5,16.2,137.9,29.0,9.6,211.5,7.0,61.7,32.9,44.8,439,13.7
+529,ELEKTROBIT,Finland,Electronic & Electrical Equipment,22.2,-7.7,11.0,201.5,24.3,3.2,61.8,1.6,3.7,-193.4,1.8,1870,16.4
+530,SCHALTBAU,Germany,Industrial Engineering,22.1,16.5,6.1,362.8,14.0,9.3,8.8,2.6,29.7,8.3,8.2,1972,13.5
+531,BLOOR,UK,General Industrials,22.1,5.5,2.5,869.3,11.0,,  ,0.0,59.2,36.6,6.8,2420,6.1
+532,COMPUTATIONAL DYNAMICS,UK,Software & Computer Services,22.0,166.3,25.9,85.0,22.9,,  ,0.0,1.7,-51.2,2.0,327,12.8
+533,ACTIA,France,Electronic & Electrical Equipment,21.9,3.8,7.6,289.1,-3.8,14.8,4.8,5.1,10.5,-39.8,3.6,2768,1.2
+534,EUROMONITOR,UK,Media,21.9,15.6,28.2,77.5,15.1,,  ,0.0,17.1,4.2,22.1,449,  
+535,VACON,Finland,Electronic & Electrical Equipment,21.9,-4.4,5.6,388.4,2.0,11.8,-36.7,3.0,37.7,52.3,9.7,1468,-0.1
+536,DELAVAL,Sweden,Industrial Engineering,21.8,22.3,3.5,628.7,-2.5,,  ,0.0,33.5,-14.8,5.3,792,0.0
+537,ORTHOFIX,The Netherlands,Health Care Equipment & Services,21.7,25.0,6.2,350.4,-20.2,21.2,12.1,6.1,67.2,172.6,19.2,892,-40.4
+538,CAF,Spain,Industrial Engineering,21.6,95.4,1.3,1721.2,-0.2,56.2,25.5,3.3,264.5,37.7,15.4,6979,0.8
+539,MANITOU BF,France,Industrial Engineering,21.6,29.9,1.7,1264.8,11.8,22.8,25.3,1.8,45.9,-12.9,3.6,3219,5.2
+540,YIT,Finland,Construction & Materials,21.5,7.0,0.5,4705.9,7.4,26.7,-11.0,0.6,256.4,32.4,5.4,25283,-3.7
+541,BAUER,Germany,Construction & Materials,21.5,-13.1,1.6,1344.4,10.2,100.9,-1.3,7.5,70.8,-9.7,5.3,10253,6.3
+542,N BROWN,UK,General Retailers,21.4,20.1,2.3,938.5,4.2,8.5,24.6,0.9,117.9,-0.5,12.6,3254,-0.5
+543,ALIAXIS,Belgium,Construction & Materials,21.4,18.3,1.0,2235.5,5.3,,  ,0.0,185.5,5.5,8.3,,  
+544,INTRALOT,Greece,Technology Hardware & Equipment,21.4,12.2,1.6,1374.0,14.3,119.0,49.5,8.7,80.1,12.1,5.8,5541,0.5
+545,NORTHERN POWERGRID,UK,Electricity,21.3,61.7,2.6,832.5,8.4,,  ,0.0,448.2,7.0,53.8,2353,2.5
+546,GLORY GLOBAL SOLUTIONS TOPCO,UK,General Industrials,21.2,14.2,5.4,394.9,2.7,,  ,0.0,55.1,22.8,13.9,1927,-6.8
+547,OMV,Austria,Oil & Gas Producers,21.0,32.0,0.0,42649.2,25.2,2484.9,0.9,5.8,3009.8,21.1,7.1,28658,-3.8
+548,OXFORD NANOPORE TECHNOLOGIES,UK,Pharmaceuticals & Biotechnology,21.0,49.6,11791.0,0.2,65.6,,  ,0.0,-28.1,43.3,-15746.3,127,33.7
+549,ACCOR,France,Travel & Leisure,21.0,-4.5,0.4,5649.0,-7.4,299.0,-1.3,5.3,324.0,-6.6,5.7,52062,-16.8
+550,CAP GEMINI,France,Software & Computer Services,21.0,250.0,0.2,10264.0,5.9,183.0,15.8,1.8,865.0,29.7,8.4,125110,4.5
+551,LINDENGRUPPEN,Sweden,General Industrials,21.0,-4.3,2.9,725.7,6.2,,  ,0.0,54.2,205.9,7.5,3214,-0.4
+552,CHICAGO BRIDGE & IRON,The Netherlands,Industrial Engineering,20.9,0.2,0.5,4157.3,20.5,,  ,0.0,320.9,34.7,7.7,26800,47.3
+553,888 HOLDINGS,UK,Travel & Leisure,20.6,-20.0,7.2,284.8,13.5,8.0,131.7,2.8,29.5,106.8,10.4,1035,11.4
+554,OHB TECHNOLOGY,Germany,Aerospace & Defence,20.6,99.4,3.3,616.0,10.9,12.3,50.1,2.0,30.3,11.1,4.9,2493,6.0
+555,FUGRO,The Netherlands,"Oil Equipment, Services & Distribution",20.5,19.5,0.7,2952.7,14.5,89.3,-72.2,3.0,416.8,17.1,14.1,12165,-12.3
+556,TELEKOM AUSTRIA,Austria,Fixed Line Telecommunications,20.5,-59.9,0.5,4329.7,-2.8,728.2,-1.5,16.8,461.1,81512.7,10.6,16446,-4.5
+557,SPORTINGBET,UK,Travel & Leisure,20.3,-18.7,8.7,234.3,-5.0,,  ,0.0,-38.2,-230.7,-16.3,690,9.5
+558,ATEX,UK,Software & Computer Services,20.3,14.3,24.6,82.3,11.4,,  ,0.0,11.8,-185.4,14.3,502,1.6
+559,TARKETT,France,Construction & Materials,20.0,11.1,1.0,2088.0,8.9,,  ,0.0,,-100.0,0.0,,  
+560,VETOQUINOL,France,Pharmaceuticals & Biotechnology,20.0,0.0,6.7,298.3,5.0,7.5,4.1,2.5,31.3,-1.4,10.5,1812,3.9
+561,DOMINO PRINTING SCIENCES,UK,Electronic & Electrical Equipment,19.9,9.0,5.3,373.2,-0.6,7.3,-29.9,2.0,62.2,-10.8,16.7,2270,1.3
+562,SANTARIS PHARMA,Denmark,Pharmaceuticals & Biotechnology,19.9,-22.9,152.6,13.0,56.8,,  ,0.0,-5.8,-57.5,-44.1,52,-16.1
+563,FLAMEL TECHNOLOGIES,France,Pharmaceuticals & Biotechnology,19.8,4.1,100.1,19.8,-19.9,,  ,0.0,-6.3,-12.6,-31.7,264,-6.4
+564,FORCE INDIA FORMULA ONE TEAM,UK,Automobiles & Parts,19.8,30.9,35.5,55.7,-3.9,,  ,0.0,-41.8,39.7,-74.9,317,5.0
+565,INTERCELL,Austria,Pharmaceuticals & Biotechnology,19.8,-34.3,55.4,35.7,8.5,,  ,0.0,-19.7,-35.4,-55.2,264,-23.0
+566,TKH,The Netherlands,Electronic & Electrical Equipment,19.7,45.6,1.8,1102.4,3.9,26.5,9.1,2.4,49.9,-35.3,4.5,4736,16.6
+567,CIRCASSIA,UK,Pharmaceuticals & Biotechnology,19.7,38.0,  ,,  ,,  ,  ,-23.0,25.3,  ,16,45.5
+568,OTTO,Germany,General Retailers,19.6,71.9,0.2,11784.2,1.6,,  ,0.0,314.2,86.8,2.7,53823,1.4
+569,METSALIITTO,Finland,Forestry & Paper,19.6,3.2,0.4,5001.0,-6.5,,  ,0.0,237.5,719.0,4.7,11986,-8.1
+570,THROMBOGENICS,Belgium,Pharmaceuticals & Biotechnology,19.5,1.0,26.0,75.1,2933.3,1.9,90.0,2.5,29.1,-217.5,38.7,181,81.0
+571,HALDEX,Sweden,Automobiles & Parts,19.5,-10.7,4.2,458.3,-22.2,13.7,-4.8,3.0,17.5,-49.3,3.8,2200,-23.3
+572,AVIAGEN INTERNATIONAL FINANCE,UK,Food Producers,19.4,-2.2,5.6,348.1,15.4,,  ,0.0,45.4,-21.2,13.0,2219,8.7
+573,HOLLYSYS AUTOMATION TECHNOLOGIES,UK,Electronic & Electrical Equipment,19.4,26.9,7.9,243.8,22.4,6.3,-48.6,2.6,35.7,25.7,14.7,3527,13.6
+574,SBM OFFSHORE,The Netherlands,"Oil Equipment, Services & Distribution",19.2,-29.6,0.7,2800.7,17.1,487.7,-19.6,17.4,-58.6,-77.3,-2.1,5893,26.6
+575,PHARMING,The Netherlands,Pharmaceuticals & Biotechnology,19.2,29.0,180.7,10.6,253.9,0.6,-42.0,5.8,-17.5,-5.6,-164.5,68,-9.3
+576,LONDON STOCK EXCHANGE,UK,Financial Services,19.1,-46.5,2.2,868.8,6.9,21.8,6.4,2.5,277.1,0.0,31.9,2013,3.9
+577,REXAM,UK,General Industrials,19.1,-5.9,0.3,5693.0,0.5,348.0,21.3,6.1,387.5,-38.3,6.8,18000,-10.9
+578,SABCA,Belgium,Aerospace & Defence,19.0,22.6,12.9,146.9,6.3,28.7,  ,19.5,9.7,-29.2,6.6,955,-0.9
+579,STRABAG,Austria,Construction & Materials,19.0,5.6,0.1,12983.2,-5.3,458.3,-4.0,3.5,182.0,-41.2,1.4,74010,-3.7
+580,ATLANTIA,Italy,Industrial Transportation,18.9,48.7,0.4,5101.2,17.1,56.5,  ,1.1,1287.0,-1.0,25.2,11260,9.9
+581,TELIT COMMUNICATIONS,UK,Technology Hardware & Equipment,18.8,23.7,12.0,157.2,16.9,2.6,-66.1,1.6,4.7,63.8,3.0,474,15.0
+582,LANSFORSAKRINGAR,Sweden,Banks,18.7,19.0,3.0,617.6,10.1,,  ,0.0,95.7,187.1,15.5,1432,4.1
+583,LM WIND POWER,Denmark,Industrial Engineering,18.6,-25.7,2.5,752.8,6.9,,  ,0.0,11.2,-135.0,1.5,5998,-0.1
+584,NYKREDIT REALKREDIT,Denmark,Banks,18.6,20.8,1.3,1452.1,24.4,,  ,0.0,429.2,139.5,29.6,4115,-0.6
+585,INVESTMENT AB KINNEVIK,Sweden,Financial Services,18.5,13.6,10.0,185.4,-81.9,10.7,-88.4,5.8,-10.4,-110.7,-5.6,2909,43.2
+586,INVESTMENT AB LATOUR,Sweden,Financial Services,18.5,13.6,2.3,791.0,-5.3,24.9,18.2,3.2,178.4,-30.7,22.6,3692,1.4
+587,CNP ASSURANCES,France,Life Insurance,18.5,32.1,0.1,25500.1,-11.2,,  ,0.0,-12883.4,183.0,-50.5,,  
+588,ESI,France,Software & Computer Services,18.5,9.8,17.0,109.0,15.7,2.3,2.8,2.1,8.0,-17.2,7.4,976,13.8
+589,PSI,Germany,Software & Computer Services,18.2,12.2,10.0,180.9,6.7,2.6,-19.3,1.4,12.9,20.8,7.1,1591,6.7
+590,TDC,Denmark,Fixed Line Telecommunications,18.1,-55.7,0.5,3497.7,-0.7,345.0,0.9,9.9,716.4,-6.4,20.5,9340,-7.6
+591,OUTOKUMPU,Finland,Industrial Metals & Mining,18.0,-10.0,0.4,4538.0,-9.4,295.0,49.7,6.5,-403.0,51.5,-8.9,16649,101.7
+592,NATIONAL GRID,UK,"Gas, Water & Multi-utilities",17.9,-6.2,0.1,17173.3,3.8,3843.9,2.1,22.4,4489.8,-16.5,26.1,25224,-1.6
+593,ABLYNX,Belgium,Pharmaceuticals & Biotechnology,17.9,-44.1,67.0,26.7,22.2,0.7,-81.0,2.6,-29.8,-34.6,-111.4,262,-10.3
+594,BASWARE,Finland,Software & Computer Services,17.9,8.5,15.7,113.7,5.5,6.8,21.1,6.0,8.3,-32.3,7.3,1330,25.7
+595,KESA ELECTRICALS,UK,General Retailers,17.8,13.4,0.5,3802.8,-2.4,46.5,-43.8,1.2,-74.6,-273.9,-2.0,15669,-4.9
+596,CARRARO,Italy,Automobiles & Parts,17.7,-3.3,2.0,874.4,-5.4,33.5,41.8,3.8,20.2,-50.1,2.3,4010,-9.5
+597,DSV,Denmark,Industrial Transportation,17.7,41.9,0.3,6015.0,2.7,59.7,-18.6,1.0,335.9,4.1,5.6,21932,1.2
+598,TREVI FINANZIARIA INDUSTRIALE,Italy,Construction & Materials,17.7,14.1,1.6,1115.3,8.3,,  ,0.0,63.1,-13.1,5.7,6689,9.4
+599,FUNKWERK,Germany,Mobile Telecommunications,17.6,-11.3,12.5,141.3,-14.1,2.2,-20.8,1.5,0.2,-102.4,0.1,859,-14.8
+600,R STAHL,Germany,Electronic & Electrical Equipment,17.6,8.5,6.1,290.9,19.7,14.7,206.2,5.0,24.4,45.6,8.4,1658,7.4
+601,PROMETHEAN WORLD,UK,Software & Computer Services,17.4,-9.8,9.3,187.8,-29.6,3.9,-24.4,2.1,-198.4,-1053.1,-105.7,868,-1.9
+602,EMIS,UK,Software & Computer Services,17.3,52.6,16.7,103.3,17.9,14.9,86.5,14.5,28.8,12.1,27.9,1116,24.3
+603,BULL,France,Technology Hardware & Equipment,17.2,-29.5,1.3,1285.2,-1.2,25.4,46.8,2.0,44.2,2004.8,3.4,9300,3.5
+604,AHLSTROM,Finland,Chemicals,17.1,-4.5,1.7,1010.8,-37.1,87.5,45.8,8.7,14.4,-8.9,1.4,5141,-9.3
+605,KENDRION,The Netherlands,Industrial Engineering,17.1,40.2,6.0,284.9,6.3,17.0,50.4,6.0,24.2,-13.3,8.5,1632,10.1
+606,TORNIER,The Netherlands,Health Care Equipment & Services,17.1,13.5,8.1,210.5,4.3,,  ,0.0,-17.6,49.0,-8.4,926,15.5
+607,TRANSMODE HOLDING,Sweden,Technology Hardware & Equipment,17.1,26.4,14.5,117.8,10.3,1.1,-45.9,1.0,19.8,15.3,16.8,255,17.5
+608,ECOTIVE,UK,Automobiles & Parts,17.0,236.2,  ,,  ,,  ,  ,-17.1,400.5,  ,,  
+609,NOKIAN TYRES,Finland,Automobiles & Parts,16.9,11.9,1.0,1612.4,10.7,206.4,29.2,12.8,414.1,9.0,25.7,4083,5.6
+610,VILMORIN,France,Food Producers,16.9,-86.8,1.3,1338.0,12.2,45.7,16.3,3.4,137.9,-9.1,10.3,5640,10.5
+611,DE LA RUE,UK,Support Services,16.9,-1.4,2.9,578.5,-8.4,44.4,15.6,7.7,69.1,43.4,11.9,3935,-0.1
+612,PHARM RESEARCH ASSOCIATES,UK,Pharmaceuticals & Biotechnology,16.9,38.3,11.1,151.4,299.9,,  ,0.0,17.2,31.4,11.4,369,20.6
+613,ALMAC,UK,Pharmaceuticals & Biotechnology,16.8,2.5,4.7,358.5,8.8,,  ,0.0,20.7,-18.5,5.8,3092,6.0
+614,UNIBEL,France,Food Producers,16.8,16.3,0.6,2648.7,4.8,81.5,9.1,3.1,231.9,28.8,8.8,10633,-7.1
+615,PALFINGER,Austria,Industrial Engineering,16.8,38.8,1.8,935.2,10.6,40.3,65.0,4.3,61.0,8.0,6.5,6270,3.8
+616,KMD,Denmark,Software & Computer Services,16.8,-6.6,2.7,629.3,10.1,,  ,0.0,79.3,34.1,12.6,3342,7.4
+617,MEDA,Sweden,Pharmaceuticals & Biotechnology,16.7,5.1,1.1,1513.7,1.1,14.7,1.6,1.0,208.7,-32.3,13.8,2869,10.7
+618,RADIALL,France,Technology Hardware & Equipment,16.6,13.7,7.6,220.1,8.2,6.8,-13.3,3.1,21.9,111.0,10.0,2500,-0.5
+619,ATARI,France,Software & Computer Services,16.6,-56.3,41.9,39.6,102.0,0.1,  ,0.3,1.6,-214.3,4.0,71,  
+620,MEGGER,UK,Electronic & Electrical Equipment,16.6,-6.5,9.6,172.7,32.3,,  ,0.0,24.2,55.7,14.0,948,27.8
+621,SAF-HOLLAND,Luxembourg,Industrial Engineering,16.4,20.1,1.9,859.6,3.4,13.8,13.4,1.6,45.2,-9.8,5.3,3118,0.4
+622,PRIMA INDUSTRIE,Italy,Industrial Engineering,16.4,12.0,4.7,349.3,12.8,2.8,-28.1,0.8,17.6,41.0,5.0,335,7.7
+623,STORK,The Netherlands,Industrial Engineering,16.3,9.7,1.0,1636.5,-1.9,,  ,0.0,-111.7,-284.8,-6.8,13302,0.9
+624,BIOTIE THERAPIES,Finland,Pharmaceuticals & Biotechnology,16.3,-14.6,337.4,4.8,379.7,0.1,76.2,2.3,-25.2,-39.3,-522.0,38,-2.6
+625,OCADO,UK,Food & Drug Retailers,16.3,65.0,2.0,811.6,13.4,98.8,-21.5,12.2,2.8,151.1,0.3,5256,1.5
+626,AMPER,Spain,Technology Hardware & Equipment,16.2,4.8,4.6,348.1,-11.4,12.0,893.9,3.4,-4.0,-131.3,-1.1,1740,-15.2
+627,ASSECO POLAND,Poland,Software & Computer Services,16.1,-0.6,1.2,1352.0,11.5,53.0,-6.6,3.9,159.7,0.6,11.8,16638,16.5
+628,DYSTAR COLOURS DISTRIBUTION,Germany,Personal Goods,16.1,12380.6,8.2,196.3,42.7,,  ,0.0,6.8,-645.2,3.5,477,-20.4
+629,VELTI,UK,Software & Computer Services,16.1,62.6,7.9,204.9,42.9,,  ,0.0,-42.3,458.1,-20.6,1135,9.6
+630,GEOX,Italy,Personal Goods,16.1,-5.0,2.0,807.6,-9.0,30.6,27.4,3.8,20.0,-75.8,2.5,2962,2.0
+631,DUERR DENTAL,Germany,Health Care Equipment & Services,16.0,11.9,8.0,199.7,-2.4,,  ,0.0,44.5,-3.5,22.3,968,1.8
+632,DOMETIC,Sweden,General Industrials,16.0,38.4,  ,,  ,,  ,  ,-9.2,-75.3,  ,41,2.5
+633,INTELLIGENT ENERGY,UK,Electronic & Electrical Equipment,15.9,108.2,30.4,52.4,269.5,,  ,0.0,-0.5,-97.3,-0.9,240,44.6
+634,UPONOR,Finland,Construction & Materials,15.9,-2.5,2.0,811.5,0.6,19.2,-20.0,2.4,57.6,97.9,7.1,3052,-5.5
+635,COMPTEL,Finland,Software & Computer Services,15.7,2.7,19.1,82.4,7.4,1.0,140.6,1.3,-13.0,-212.1,-15.8,700,12.4
+636,WMF,Germany,Household Goods & Home Construction,15.7,5.3,1.5,1027.3,4.9,35.1,20.7,3.4,69.3,7.5,6.7,6053,0.9
+637,VICTREX,UK,Chemicals,15.7,24.8,6.0,262.9,1.9,32.3,200.0,12.3,112.4,0.2,42.8,607,10.0
+638,PREMIER FOODS,UK,Food Producers,15.7,-6.4,0.7,2100.4,-12.2,59.1,-14.8,2.8,124.4,-158.6,5.9,9787,-29.1
+639,NORDSTJERNAN,Sweden,Financial Services,15.6,4.7,0.2,7646.8,10.2,,  ,0.0,318.7,7.2,4.2,33116,7.1
+640,TERNA,Italy,Electricity,15.6,-14.8,0.9,1732.8,8.9,1156.3,  ,66.7,976.4,15.9,56.3,3436,-1.6
+641,CERES POWER,UK,Electronic & Electrical Equipment,15.6,14.5,5762.4,0.3,-67.3,1.6,-42.3,590.7,-21.6,8.6,-7993.8,155,12.3
+642,JAZZ PHARMACEUTICALS,Ireland,Pharmaceuticals & Biotechnology,15.5,45.0,3.5,444.1,115.2,4.5,367.2,1.0,149.9,54.8,33.8,610,41.5
+643,EOS HOLDING,Germany,Industrial Engineering,15.5,17.2,13.7,112.8,13.9,,  ,0.0,12.4,4.1,11.0,433,18.0
+644,SEPURA,UK,Technology Hardware & Equipment,15.5,10.3,14.8,104.8,26.2,1.5,-19.4,1.4,8.3,54.3,7.9,311,16.9
+645,SKYEPHARMA,UK,Pharmaceuticals & Biotechnology,15.4,-20.4,25.9,59.7,-9.6,1.1,-62.5,1.8,2.2,-84.9,3.6,85,-46.2
+646,SEVERN TRENT,UK,"Gas, Water & Multi-utilities",15.4,89.7,0.7,2190.6,3.4,513.3,15.7,23.4,593.8,-1.5,27.1,8221,2.1
+647,NEDAP,The Netherlands,Electronic & Electrical Equipment,15.4,25.4,9.0,171.9,12.8,8.3,-12.6,4.8,16.4,11.8,9.5,709,3.7
+648,HUHTAMAKI,Finland,General Industrials,15.4,-4.9,0.7,2335.0,14.3,93.5,13.7,4.0,160.1,33.2,6.9,14228,11.7
+649,READSOFT,Sweden,Software & Computer Services,15.4,11.7,16.9,91.1,17.9,0.8,-3.9,0.8,7.9,-13.5,8.6,564,17.0
+650,APERAM,Luxembourg,Industrial Metals & Mining,15.2,11.1,0.4,3987.4,-17.1,122.0,1.9,3.1,-78.8,-321.3,-2.0,,  
+651,SAIPEM,Italy,Industrial Engineering,15.0,25.0,0.1,13369.0,6.2,1002.0,-8.9,7.5,1461.0,2.7,10.9,42554,5.4
+652,BALLAST NEDAM,The Netherlands,Construction & Materials,15.0,-6.3,1.2,1296.0,-6.2,23.0,-45.2,1.8,-31.0,-263.2,-2.4,3859,-1.8
+653,KRAUSSMAFFEI TECHNOLOGIES,Germany,Industrial Engineering,15.0,11.3,2.9,524.8,23.5,,  ,0.0,27.3,-219.2,5.2,1747,1.3
+654,ARUP,UK,Construction & Materials,14.9,-9.7,1.3,1186.2,2.6,,  ,0.0,34.3,16.4,2.9,10135,2.0
+655,RECTICEL,Belgium,General Industrials,14.9,0.5,1.1,1319.5,-4.3,38.3,61.5,2.9,37.9,5.5,2.9,8054,-7.5
+656,IBS,Sweden,Software & Computer Services,14.9,-24.8,14.8,100.6,-17.4,,  ,0.0,-12.0,-35.5,-12.0,583,-21.4
+657,GLANBIA,Ireland,Food Producers,14.8,11.2,0.7,2211.8,-17.2,65.9,39.5,3.0,165.1,4.7,7.5,3823,7.4
+658,ENIGMA DIAGNOSTICS,UK,Pharmaceuticals & Biotechnology,14.8,-29.6,267.5,5.5,-67.0,,  ,0.0,-10.4,63.0,-187.9,49,14.0
+659,BANK OCHRONY SRODOWISKA,Poland,Banks,14.8,132.1,12.6,117.8,-4.6,,  ,0.0,10.4,-44.9,8.8,1979,-0.1
+660,MARTIN-BAKER,UK,Aerospace & Defence,14.7,-5.8,6.1,241.8,-0.7,,  ,0.0,63.0,0.1,26.0,810,1.6
+661,IXETIC VERWALTUNGS,Germany,Industrial Engineering,14.6,8.8,4.9,299.5,9.3,,  ,0.0,14.0,61.0,4.7,1275,4.7
+662,VOCALINK,UK,Software & Computer Services,14.6,293.5,7.5,195.5,6.6,,  ,0.0,42.0,6.4,21.5,776,3.6
+663,COR&FJA,Germany,Software & Computer Services,14.5,-18.4,10.6,136.7,1.1,0.9,-50.9,0.6,-19.3,-1030.4,-14.1,1178,0.3
+664,SAES GETTERS,Italy,Electronic & Electrical Equipment,14.5,4.2,10.1,142.5,-4.2,5.6,-8.0,3.9,11.3,-11.4,8.0,1012,0.1
+665,CARMAT,France,Health Care Equipment & Services,14.5,23.3,131363.6,0.0,-99.8,0.3,-64.6,2827.3,-22.3,39.4,-203090.9,40,14.3
+666,MONTUPET,France,Automobiles & Parts,14.4,-36.2,3.6,399.5,-1.6,43.7,10.0,10.9,33.0,38.4,8.2,3113,-10.3
+667,QUEST DIAGNOSTICS,UK,Health Care Equipment & Services,14.3,41.0,18.2,78.8,-0.6,,  ,0.0,5.8,194.3,7.3,370,-1.6
+668,GFI INFORMATIQUE,France,Software & Computer Services,14.3,48.0,2.1,667.3,8.0,3.1,-15.1,0.5,23.3,19.2,3.5,9011,4.9
+669,SPIRAX-SARCO ENGINEERING,UK,Industrial Engineering,14.2,3.7,1.8,791.4,1.8,28.0,-45.4,3.5,150.4,-2.9,19.0,4706,0.5
+670,PFEIFFER VACUUM TECHNOLOGY,Germany,Industrial Engineering,14.2,-3.3,3.1,461.3,-11.2,10.3,-50.6,2.2,68.0,13.0,14.7,2256,-1.5
+671,INMARSAT,UK,Mobile Telecommunications,14.2,55.8,1.4,1013.9,-5.0,331.4,-10.7,32.7,262.9,-26.0,25.9,1616,4.7
+672,HOERBIGER DEUTSCHLAND,Germany,Support Services,14.1,-34.5,2.7,525.8,-5.4,,  ,0.0,17.7,-58.9,3.4,3267,-1.4
+673,INTERCOMPONENTWARE,Germany,Health Care Equipment & Services,14.1,-32.3,166.9,8.4,-27.7,,  ,0.0,-20.7,-40.9,-246.1,293,-36.2
+674,PUNCH,Belgium,Electronic & Electrical Equipment,14.0,13.2,10.7,131.3,0.4,8.8,-36.8,6.7,20.7,-13.1,15.8,402,-6.3
+675,AUCHAN,France,General Retailers,14.0,-26.3,0.1,14088.0,0.7,,  ,0.0,363.0,-6.6,2.6,50896,-1.0
+676,VIRBAC,France,Pharmaceuticals & Biotechnology,13.9,56.1,2.0,695.2,11.6,29.0,-23.1,4.2,99.7,13.2,14.3,4085,16.4
+677,FAIVELEY TRANSPORT,France,Industrial Engineering,13.9,-1.1,1.4,987.7,9.7,13.8,36.5,1.4,111.7,16.4,11.3,5483,0.3
+678,D-CLEAR EUROPE,UK,Support Services,13.9,  ,21.3,65.2,  ,,  ,0.0,0.7,  ,1.1,433,  
+679,P&I PERSONAL & INFORMATIK,Germany,Software & Computer Services,13.9,2.2,16.9,82.1,16.3,0.7,-26.1,0.9,24.0,32.5,29.3,398,3.9
+680,ISRA VISION,Germany,Industrial Engineering,13.6,6.1,16.3,83.9,11.6,1.8,62.0,2.2,15.1,14.7,18.0,514,15.2
+681,KINGSPAN,Ireland,Construction & Materials,13.6,11.6,0.8,1628.7,5.3,34.2,18.8,2.1,105.0,17.4,6.4,5754,-1.9
+682,RATIONAL,Germany,Household Goods & Home Construction,13.6,-9.2,3.1,435.0,11.1,9.4,63.8,2.2,123.2,22.3,28.3,1263,3.2
+683,SENIOR,UK,Aerospace & Defence,13.5,7.6,1.6,851.6,11.1,30.3,19.9,3.6,113.5,14.5,13.3,6081,13.2
+684,GLOBAL MOBILITY,The Netherlands,Financial Services,13.5,44.2,0.2,7684.2,3.9,,  ,0.0,-57.3,-31.0,-0.7,6041,1.2
+685,DELCAM,UK,Software & Computer Services,13.5,6.4,23.9,56.4,12.5,1.8,146.9,3.2,6.1,77.2,10.8,597,8.3
+686,VILLEROY & BOCH,Germany,Construction & Materials,13.3,8.0,1.8,743.6,0.1,26.4,3.0,3.6,28.7,13.7,3.9,7840,-7.2
+687,SYSTEMAIR,Sweden,Industrial Engineering,13.3,44.3,2.5,530.3,13.9,14.4,44.4,2.7,43.4,22.8,8.2,3649,16.7
+688,SKANSKA,Sweden,Construction & Materials,13.3,171.4,0.1,15072.2,8.9,308.3,19.9,2.0,468.2,-52.2,3.1,56618,7.7
+689,SUBSEA 7,Luxembourg,Industrial Engineering,13.2,29.9,0.3,4772.3,15.0,537.1,5.4,11.3,612.6,26.2,12.8,,  
+690,MAGIX,Germany,Software & Computer Services,13.2,85.5,45.7,28.8,-20.2,,-100.0,0.0,2.8,-46.1,9.9,342,-0.3
+691,NORBROOK LABORATORIES,UK,Pharmaceuticals & Biotechnology,13.2,35.4,6.1,216.1,12.3,,  ,0.0,21.4,-5.7,9.9,1533,7.7
+692,GREENCORE GROUP,Ireland,Food Producers,13.2,186.3,0.9,1389.7,44.5,34.4,43.6,2.5,67.9,108.7,4.9,9726,45.1
+693,DEBENHAMS,UK,General Retailers,13.0,83.5,0.5,2666.8,0.9,121.3,7.5,4.5,191.8,-6.3,7.2,30117,-1.7
+694,BEIJER ELECTRONICS,Sweden,Electronic & Electrical Equipment,13.0,4.4,8.2,159.3,-3.6,1.6,-31.9,1.0,12.0,-32.3,7.5,689,3.1
+695,TECNOTREE,Finland,Technology Hardware & Equipment,13.0,7.6,17.7,73.4,17.9,0.7,-2.7,0.9,-12.4,11.4,-16.8,1070,16.1
+696,STO,Germany,Construction & Materials,13.0,-2.7,1.1,1141.7,3.2,36.6,35.1,3.2,96.5,-10.0,8.4,4689,-0.1
+697,CARL MAHR,Germany,Support Services,12.9,25.1,6.0,214.2,9.6,,  ,0.0,21.8,6.3,10.2,1629,5.9
+698,VITEC,UK,Industrial Engineering,12.9,-9.2,3.1,413.0,-1.6,17.0,3.6,4.1,30.6,12.8,7.4,2085,1.6
+699,MCBRIDE,UK,Household Goods & Home Construction,12.9,6.9,1.3,973.4,0.2,30.1,4.6,3.1,20.5,27.6,2.1,5112,-5.7
+700,COHORT,UK,Support Services,12.9,3.9,15.2,84.8,-6.0,0.3,81.6,0.4,7.8,29.9,9.3,513,-2.7
+701,COSUN,The Netherlands,Food Producers,12.9,-3.0,0.7,1945.4,9.8,,  ,0.0,193.0,40.6,9.9,3396,-18.4
+702,CARLSBERG,Denmark,Beverages,12.9,-7.7,0.1,9000.2,5.7,679.4,16.2,7.5,1175.6,-6.8,13.1,41708,-2.3
+703,WILEX,Germany,Pharmaceuticals & Biotechnology,12.8,-18.3,79.2,16.1,63.4,0.2,-28.1,1.3,-9.9,-25.9,-61.5,128,3.2
+704,ORIFLAME COSMETICS,Luxembourg,Personal Goods,12.7,4.9,0.9,1489.3,-0.3,66.0,41.3,4.4,175.1,10.7,11.8,7465,-5.5
+705,SCHENCK PROCESS,Germany,Construction & Materials,12.7,44.5,1.9,675.3,19.0,,  ,0.0,58.1,21.4,8.6,3254,11.3
+706,BREMBO,Italy,Automobiles & Parts,12.7,23.7,0.9,1388.6,10.7,121.4,-17.0,8.7,89.4,21.9,6.4,6824,1.3
+707,CELLECTIS,France,Pharmaceuticals & Biotechnology,12.6,102.5,111.9,11.3,13.8,1.0,-70.9,8.6,-19.6,0.5,-173.6,205,49.6
+708,KARO BIO,Sweden,Pharmaceuticals & Biotechnology,12.6,-43.0,325.1,3.9,  ,0.0,-95.7,0.6,-11.6,-57.0,-299.8,51,-25.0
+709,LEICA CAMERA,Germany,Leisure Goods,12.5,5.0,4.2,296.8,19.3,,  ,0.0,58.7,41.5,19.8,1187,4.7
+710,TESSENDERLO,Belgium,Chemicals,12.4,24.0,0.6,2129.6,0.2,114.2,7.2,5.4,32.8,-66.5,1.5,7005,-6.1
+711,IGLO FOODS,UK,Food Producers,12.4,2.4,0.8,1525.5,-2.5,,  ,0.0,259.8,5.3,17.0,2861,-2.7
+712,E2V TECHNOLOGIES,UK,Electronic & Electrical Equipment,12.4,-31.7,5.2,239.6,-14.6,10.7,-37.9,4.5,43.0,4.0,18.0,1525,0.3
+713,RM,UK,Software & Computer Services,12.3,-37.6,3.6,345.3,-17.7,2.2,-59.1,0.6,11.9,-151.5,3.4,2305,-17.6
+714,TRINITY BIOTECH,Ireland,Health Care Equipment & Services,12.2,61.0,19.6,62.5,5.9,2.0,9.4,3.2,13.0,9.0,20.8,385,7.8
+715,ROSENBAUER INTERNATIONAL,Austria,Industrial Engineering,12.2,0.8,1.9,645.1,19.1,14.1,28.8,2.2,37.6,5.7,5.8,2328,11.3
+716,CSG EQUITYCO,UK,Software & Computer Services,12.2,5.9,44.7,27.2,  ,,  ,0.0,-3.2,  ,-11.9,677,  
+717,STABILUS,Germany,Industrial Engineering,12.2,-24.8,4.6,266.8,2.0,,  ,0.0,50.7,16.7,19.0,1552,1.7
+718,GLASTON,Finland,Industrial Engineering,12.2,-0.9,10.5,115.6,-3.4,5.6,-1.8,4.8,-15.0,1208.6,-13.0,820,-8.8
+719,FIDELITY INFORMATION SERVICES KORDOBA,Germany,Software & Computer Services,12.1,3.9,13.2,92.1,-2.2,,  ,0.0,3.9,-25.2,4.3,305,-0.7
+720,ELIA SYSTEM OPERATOR,Belgium,Electricity,12.1,9.0,1.0,1228.0,3.3,317.2,10.0,25.8,313.1,0.4,25.5,1177,51.1
+721,BLINKX,UK,Software & Computer Services,12.1,29.5,8.0,150.0,73.0,3.0,-33.0,2.0,12.5,1290.6,8.3,265,13.2
+722,ATRIA,Finland,Food Producers,12.0,1.1,0.9,1343.6,3.2,50.4,47.3,3.7,28.5,213.7,2.1,4898,-10.4
+723,MONDI,UK,Forestry & Paper,12.0,0.0,0.2,5807.0,1.2,298.0,-2.3,5.1,539.0,-5.8,9.3,238,-2.9
+724,MUNICH RE,Germany,Nonlife Insurance,12.0,-68.4,0.0,50174.0,4.8,,  ,0.0,-3042.0,-45.8,-6.1,,-100.0
+725,SEQUANA,France,Forestry & Paper,12.0,-7.7,0.3,3852.0,-2.3,58.0,-20.5,1.5,-49.0,-269.0,-1.3,11216,-0.8
+726,AAREAL BANK,Germany,Banks,12.0,100.0,1.8,668.0,-6.0,,  ,0.0,176.0,-4.9,26.3,2289,-2.7
+727,CEWE COLOR,Germany,General Retailers,12.0,1.7,2.4,503.3,7.3,33.8,11.6,6.7,28.4,-7.3,5.7,3895,38.0
+728,RANDOX LABORATORIES,UK,Pharmaceuticals & Biotechnology,11.9,19.2,13.9,85.5,17.4,,  ,0.0,3.8,-12.1,4.4,809,5.2
+729,FAGERHULT,Sweden,Electronic & Electrical Equipment,11.8,2.7,3.3,359.5,2.1,9.8,40.2,2.7,29.3,-20.7,8.2,2192,-1.6
+730,LET'S GOWEX,Spain,Mobile Telecommunications,11.7,139.0,10.3,114.3,71.4,11.6,15.9,10.1,21.8,129.6,19.1,70,40.0
+731,INDUS HOLDING,Germany,General Industrials,11.7,-16.8,1.1,1105.3,0.1,49.5,21.0,4.5,104.0,-5.0,9.4,6859,1.9
+732,HOLMEN,Sweden,Forestry & Paper,11.7,0.0,0.6,2080.2,-4.3,212.5,1.0,10.2,134.6,-40.1,6.5,3945,-2.4
+733,SWEDISH MATCH,Sweden,Tobacco,11.5,-2.9,0.8,1454.9,7.0,29.2,2.4,2.0,472.7,9.6,32.5,3848,-0.8
+734,LINEDATA SERVICES,France,Software & Computer Services,11.5,25.0,8.0,144.0,4.9,6.6,-3.0,4.5,27.2,6.6,18.9,921,0.5
+735,M SPORT,UK,Automobiles & Parts,11.5,17.4,21.9,52.5,-9.9,,  ,0.0,1.7,-75.7,3.2,211,1.9
+736,LECTRA,France,Software & Computer Services,11.4,1.3,5.8,198.4,-3.6,3.8,33.5,1.9,20.8,-31.9,10.5,1345,0.5
+737,SCHRADER ELECTRONICS,UK,Automobiles & Parts,11.4,32.2,5.6,203.1,15.4,,  ,0.0,18.4,79.9,9.0,936,9.5
+738,ELEXIS,Germany,Industrial Engineering,11.4,39.0,6.8,168.0,0.3,2.9,23.4,1.8,22.2,13.4,13.2,897,4.5
+739,CREDITO AGRICOLA,Portugal,Banks,11.4,-6.3,18.4,61.8,-21.2,,  ,0.0,0.9,-6.3,1.4,,  
+740,VISA,UK,Financial Services,11.4,54.6,1.1,1069.4,3.6,,  ,0.0,243.4,0.1,22.8,1609,12.4
+741,NEXUS,Germany,Software & Computer Services,11.4,-3.8,18.2,62.3,16.4,,  ,0.0,5.4,28.0,8.7,490,10.6
+742,GENFIT,France,Pharmaceuticals & Biotechnology,11.3,-7.0,188.3,6.0,-11.3,0.3,160.2,4.9,-7.7,-0.1,-128.4,76,-15.6
+743,PERSTORP,Sweden,Chemicals,11.3,-37.8,0.9,1316.4,-22.4,,  ,0.0,68.0,81.9,5.2,2232,2.8
+744,DYNACTION,France,Chemicals,11.3,-5.8,6.6,171.1,4.0,9.3,9.1,5.4,10.7,172.8,6.2,921,-3.2
+745,MENSCH UND MASCHINE SOFTWARE,Germany,Software & Computer Services,11.2,18.8,9.5,118.8,-38.0,4.0,6.8,3.4,6.2,-48.1,5.2,659,3.1
+746,KEDRION,Italy,Pharmaceuticals & Biotechnology,11.2,19.6,3.0,378.0,36.3,,  ,0.0,60.3,46.0,15.9,1475,8.2
+747,NET INSIGHT,Sweden,Technology Hardware & Equipment,11.1,63.3,34.1,32.7,-4.8,0.3,-35.8,0.8,0.3,-93.6,1.0,155,9.2
+748,ENEA,Sweden,Software & Computer Services,11.1,-12.6,18.1,61.7,-26.6,0.5,-58.7,0.9,15.6,5248.3,25.4,417,-36.0
+749,INNOVATION,UK,Software & Computer Services,11.1,14.9,4.8,231.7,10.2,12.6,16.8,5.4,13.0,4.0,5.6,2637,7.7
+750,SAMSONITE,Luxembourg,Household Goods & Home Construction,11.1,9.0,0.8,1342.8,13.2,28.8,2.1,2.1,176.6,13.7,13.1,7070,  
+751,LUFTHANSA,Germany,Travel & Leisure,11.0,-60.7,0.0,30135.0,4.9,2292.0,-6.3,7.6,1215.0,23.9,4.0,116957,-2.6
+752,PICANOL,Belgium,Industrial Engineering,11.0,4.3,2.4,461.8,-1.1,6.8,-1.2,1.5,72.3,-5.3,15.7,1899,-6.7
+753,SCHOUW,Denmark,General Industrials,11.0,-11.9,0.7,1671.1,12.7,45.8,-38.1,2.7,103.2,19.7,6.2,2879,7.1
+754,SODRA,Sweden,Forestry & Paper,11.0,1.1,0.6,1958.4,-7.6,,  ,0.0,-108.2,-191.9,-5.5,4061,4.9
+755,SNELL,UK,Electronic & Electrical Equipment,10.9,-6.9,12.7,85.5,3.0,,  ,0.0,2.4,45.9,2.8,439,-3.9
+756,WURTH,Germany,General Industrials,10.8,-12.2,0.1,9984.7,2.9,,  ,0.0,448.4,-2.4,4.5,66050,1.5
+757,TIKKURILA,Finland,Chemicals,10.8,8.5,1.6,671.8,4.4,13.4,-5.4,2.0,66.3,8.6,9.9,3227,  
+758,OASMIA PHARMACEUTICAL,Sweden,Pharmaceuticals & Biotechnology,10.7,-9.8,  ,,-100.0,0.5,52.0,  ,-8.1,5.5,  ,72,-6.5
+759,AMINO TECHNOLOGIES,UK,Software & Computer Services,10.7,33.4,21.4,49.9,-19.5,0.2,572.7,0.4,3.5,-4946.7,7.0,105,-11.0
+760,LUXFER,UK,Industrial Engineering,10.6,74.5,1.7,611.9,61.2,23.1,45.1,3.8,80.6,65.6,13.2,1520,4.9
+761,NORGINE,The Netherlands,Pharmaceuticals & Biotechnology,10.5,-52.7,4.2,249.9,0.0,,  ,0.0,12.5,-215.2,5.0,1211,-2.3
+762,SINGULUS TECHNOLOGIES,Germany,Industrial Engineering,10.5,-5.4,9.8,107.5,-31.7,0.9,-52.6,0.8,-60.1,-880.5,-55.9,400,-12.1
+763,HKSCAN,Finland,Food Producers,10.5,-6.2,0.4,2546.8,2.2,76.9,27.3,3.0,38.5,-2.5,1.5,7763,-6.3
+764,INTERPUMP,Italy,Industrial Engineering,10.5,13.0,2.0,527.2,6.9,16.9,53.5,3.2,82.8,9.3,15.7,2685,10.1
+765,HC STARCK,Germany,Industrial Metals & Mining,10.4,-18.7,1.8,576.0,39.5,,  ,0.0,36.0,-365.3,6.3,1330,4.2
+766,RIB SOFTWARE,Germany,Software & Computer Services,10.4,4.5,26.6,39.2,11.7,0.4,-56.9,0.9,12.0,80.1,30.5,465,23.3
+767,NET ENTERTAINMENT NE,Sweden,Software & Computer Services,10.4,15.3,17.0,61.2,23.1,2.4,-4.2,3.9,17.7,17.8,28.9,257,16.8
+768,MIG,Germany,Support Services,10.4,31.0,1.9,542.3,25.3,,  ,0.0,32.3,-2.0,5.9,,-100.0
+769,MUNTERS,Sweden,General Industrials,10.4,2.3,2.2,472.8,2.7,,  ,0.0,16.4,-713.0,3.5,2732,5.9
+770,FRANCOTYP-POSTALIA,Germany,Industrial Engineering,10.4,-4.0,6.3,165.6,3.9,8.9,1.8,5.4,9.8,701.7,5.9,1093,-4.0
+771,MASCHINENFABRIK BERTHOLD HERMLE,Germany,Industrial Engineering,10.3,7.6,3.4,302.7,12.4,4.1,-74.8,1.3,64.4,16.6,21.3,911,5.9
+772,TULLETT PREBON,UK,Financial Services,10.3,-8.5,1.0,1012.4,-8.3,,  ,0.0,-40.1,-127.8,-4.0,2645,3.7
+773,INDUTRADE,Sweden,Electronic & Electrical Equipment,10.3,18.2,1.0,976.9,4.9,13.9,-18.5,1.4,92.8,-3.5,9.5,3939,4.3
+774,HEAD,The Netherlands,Leisure Goods,10.2,17.2,3.0,343.2,1.2,8.5,-3.2,2.5,10.0,-28.3,2.9,2090,-1.8
+775,COSWORTH GROUP,UK,General Industrials,10.1,3.9,15.5,65.4,8.2,,  ,0.0,6.2,5.6,9.5,381,11.1
+776,NOVABASE,Portugal,Software & Computer Services,10.1,5.9,4.8,212.1,-7.6,1.0,-29.4,0.5,12.3,166.2,5.8,2194,4.0
+777,DYCKERHOFF,Germany,Construction & Materials,10.1,11.0,0.6,1603.4,0.2,89.7,-3.2,5.6,109.8,-25.1,6.8,6808,-1.1
+778,NORTHGATEARINSO,UK,Software & Computer Services,10.1,-3.4,6.7,151.3,-0.1,,  ,0.0,13.4,-45.0,8.8,1278,-1.4
+779,URENCO,UK,Electricity,10.0,35.1,0.6,1553.3,19.4,,  ,0.0,598.5,14.0,38.5,1439,4.0
+780,AVANQUEST SOFTWARE,France,Software & Computer Services,9.9,-10.1,9.8,101.3,-7.7,0.5,-93.5,0.5,-1.7,-257.9,-1.6,524,-1.1
+781,OXFORD BIOMEDICA,UK,Pharmaceuticals & Biotechnology,9.9,-12.6,107.0,9.3,0.5,0.6,-86.9,6.1,-12.6,-27.0,-136.2,,-100.0
+782,PHYTOPHARM,UK,Pharmaceuticals & Biotechnology,9.8,10.0,43215.6,0.0,-71.6,0.0,-71.4,31.6,-11.0,7.7,-48478.9,14,0.0
+783,SERMA,France,Electronic & Electrical Equipment,9.8,55.5,13.2,74.3,17.3,2.3,24.1,3.2,11.4,22.5,15.4,666,23.8
+784,PREMIER FARNELL,UK,Support Services,9.8,-44.6,0.9,1138.6,-2.2,10.3,-17.3,0.9,105.0,-15.7,9.2,4464,0.1
+785,TOM TAILOR,Germany,Personal Goods,9.8,13.7,1.6,629.7,53.0,35.6,57.5,5.7,15.2,-24.5,2.4,6133,298.0
+786,SUSS MICROTEC,Germany,Technology Hardware & Equipment,9.8,-25.0,6.0,163.8,-6.6,3.4,37.2,2.1,13.0,-30.5,8.0,704,12.8
+787,PRAYON,Belgium,Chemicals,9.7,0.0,1.2,836.2,22.8,,  ,0.0,-11.8,-149.0,-1.4,,  
+788,GW PHARMACEUTICALS,UK,Pharmaceuticals & Biotechnology,9.7,20.6,24.4,39.6,11.8,1.6,47.9,4.0,1.6,-38.1,4.1,177,16.4
+789,ANOTO,Sweden,Technology Hardware & Equipment,9.6,41.4,41.4,23.1,3.3,0.2,139.6,1.0,-4.3,-85.2,-18.5,103,9.6
+790,YULE CATTO,UK,Chemicals,9.6,-35.8,0.7,1329.7,-0.5,46.9,61.7,3.5,73.7,14.9,5.5,2054,-19.1
+791,CHROMA THERAPEUTICS,UK,Pharmaceuticals & Biotechnology,9.5,-24.1,106.3,9.0,457.2,,  ,0.0,-0.5,-95.3,-5.7,33,-36.5
+792,XAAR,UK,Technology Hardware & Equipment,9.5,40.4,9.2,103.2,25.6,9.0,-47.8,8.7,19.3,63.1,18.7,502,8.9
+793,ORION ENGINEERED CARBONS,Germany,Mining,9.5,98.2,0.7,1397.5,156.4,,  ,0.0,87.3,-581.6,6.2,,  
+794,ELISA,Finland,Mobile Telecommunications,9.5,93.9,0.6,1553.4,1.5,188.9,0.4,12.2,298.4,2.2,19.2,3863,2.4
+795,FRONTIER SILICON,UK,Leisure Goods,9.5,130.9,37.2,25.5,-5.3,,  ,0.0,-5.5,391.1,-21.8,53,3.9
+796,BETSSON,Sweden,Travel & Leisure,9.4,95.6,3.7,256.8,26.9,1.2,40.2,0.5,67.2,4.6,26.2,591,73.8
+797,WIENERBERGER,Austria,Construction & Materials,9.4,19.9,0.4,2355.5,23.0,122.0,5.9,5.2,11.8,-82.7,0.5,13060,9.8
+798,CARL BENNET,Sweden,Support Services,9.4,24.2,1.0,948.6,7.5,,  ,0.0,70.2,9.2,7.4,4697,9.0
+799,MELLBY GARD INDUSTRI,Sweden,Support Services,9.4,77.0,3.0,311.0,7.2,,  ,0.0,46.4,7.5,14.9,1070,-9.0
+800,HJ HEINZ,UK,Food Producers,9.3,-1.3,0.9,992.6,6.6,,  ,0.0,177.7,1.6,17.9,2228,3.6
+801,AZKOYEN,Spain,Industrial Engineering,9.3,-1.1,7.8,118.5,-3.5,3.1,1.3,2.6,7.9,58.7,6.6,728,-4.0
+802,BIOALLIANCE PHARMA,France,Pharmaceuticals & Biotechnology,9.3,17.2,229.9,4.0,24.7,0.1,-65.2,1.3,-11.4,-23.6,-283.2,53,0.0
+803,LABORATORIOS FARMACEUTICOS ROVI,Spain,Pharmaceuticals & Biotechnology,9.2,9.9,4.6,201.9,9.3,12.8,69.5,6.3,20.4,31.6,10.1,899,7.8
+804,SPI LASERS UK,UK,General Industrials,9.2,57.4,32.2,28.7,-18.6,,  ,0.0,-12.2,86.9,-42.5,248,14.3
+805,JETTER,Germany,Industrial Engineering,9.2,7.0,23.0,40.2,-8.7,1.7,32.3,4.3,-1.4,-452.8,-3.6,253,-1.2
+806,METABOLIC EXPLORER,France,Chemicals,9.2,-9.9,438.4,2.1,147.1,9.3,-20.4,442.0,-8.3,42.5,-397.5,102,-15.7
+807,ALLOCATE SOFTWARE,UK,Software & Computer Services,9.2,8.5,20.7,44.3,1.2,0.4,-27.2,1.0,-2.7,-52.1,-6.1,305,-1.6
+808,ETEX,Belgium,Construction & Materials,9.1,-8.8,0.4,2299.8,0.0,,  ,0.0,196.9,0.0,8.6,,  
+809,GENTIUM,Italy,Pharmaceuticals & Biotechnology,9.1,167.6,33.0,27.6,16.3,,  ,0.0,0.7,-79.6,2.6,77,  
+810,MELROSE INDUSTRIES,UK,General Industrials,9.1,280.0,0.5,1898.4,46.9,62.3,57.9,3.3,246.9,37.1,13.0,14773,47.6
+811,AEROCRINE,Sweden,Health Care Equipment & Services,9.1,46.4,53.0,17.1,57.2,0.6,-5.7,3.5,-22.9,47.6,-133.7,107,50.7
+812,WAVIN,The Netherlands,Construction & Materials,9.1,13.5,0.7,1327.1,7.8,,  ,0.0,34.6,-7.1,2.6,5941,-2.4
+813,BRADY,UK,Software & Computer Services,9.0,54.6,26.8,33.7,46.9,0.5,-35.0,1.5,1.0,-59.0,2.9,269,88.1
+814,TIGENIX,Belgium,Pharmaceuticals & Biotechnology,8.9,0.7,211.3,4.2,234.6,0.6,-80.3,13.8,-20.2,-51.3,-482.3,67,-10.7
+815,CONCENTRIC,Sweden,Industrial Engineering,8.9,-1.3,3.6,248.1,-6.7,6.3,28.6,2.5,29.4,-10.6,11.8,1131,-4.1
+816,BILLERUDKORSNAS,Sweden,Forestry & Paper,8.9,52.0,0.9,961.8,0.9,,  ,0.0,105.7,-2.1,11.0,1772,9.9
+817,DONG ENERGY,Denmark,"Gas, Water & Multi-utilities",8.8,-90.9,0.1,8829.2,12.8,,  ,0.0,-663.5,-162.5,-7.5,6735,12.9
+818,STATPRO,UK,Software & Computer Services,8.8,-12.7,23.1,38.3,0.9,0.8,-35.2,2.0,6.1,19.5,15.9,253,-4.9
+819,GESCO,Germany,Financial Services,8.8,6.0,2.0,440.4,6.0,21.6,44.7,4.9,35.9,-6.9,8.1,2292,20.7
+820,BWT,Austria,"Gas, Water & Multi-utilities",8.8,18.9,1.8,502.3,4.9,36.3,67.8,7.2,20.7,5.7,4.1,2726,1.4
+821,INVISTA TEXTILES,UK,Chemicals,8.8,41.3,0.8,1059.8,-7.9,,  ,0.0,27.6,-69.1,2.6,709,-0.3
+822,NEUMAYER TEKFOR VERWALTUNGS,Germany,Real Estate Investment & Services,8.7,-5.6,1.7,501.4,37.5,,  ,0.0,9.6,1623.3,1.9,3589,30.6
+823,OPTION,Belgium,Technology Hardware & Equipment,8.7,-27.9,21.4,40.8,-18.2,1.8,947.9,4.3,3.6,-200.7,8.8,155,-15.3
+824,AB SCIENCE,France,Pharmaceuticals & Biotechnology,8.7,15.0,651.1,1.3,21.4,,  ,0.0,-10.6,9.2,-791.9,88,15.8
+825,FIRST SENSOR,Germany,Electronic & Electrical Equipment,8.7,15.9,7.8,111.9,71.7,9.2,-14.4,8.2,3.6,118.3,3.2,756,4.3
+826,S&T,Austria,Technology Hardware & Equipment,8.7,13.6,2.5,339.5,121.5,,  ,0.0,10.8,10.8,3.2,1520,-11.4
+827,PROGRESS WERK OBERKIRCH,Germany,Automobiles & Parts,8.6,12.5,2.4,358.1,8.2,30.9,24.0,8.6,21.4,17.8,6.0,2916,9.5
+828,ESPIRITO SANTO FINANCIAL,Luxembourg,Banks,8.6,-13.1,0.3,3201.1,11.8,,  ,0.0,482.7,131.2,15.1,12036,-19.2
+829,HYMER,Germany,Automobiles & Parts,8.6,-1.8,1.0,859.2,8.4,13.2,  ,1.5,33.6,2.7,3.9,2780,5.5
+830,MEXICHEM,UK,Chemicals,8.6,134.0,4.9,174.4,35.4,,  ,0.0,17.5,-51.2,10.0,222,3.3
+831,IL SOLE 24 ORE,Italy,Media,8.6,4.7,2.0,430.9,-7.9,18.8,  ,4.4,-63.7,551.7,-14.8,1855,-5.6
+832,BETA SYSTEMS SOFTWARE,Germany,Software & Computer Services,8.5,60.0,20.5,41.6,64.9,0.3,-25.2,0.7,1.4,-122.3,3.4,264,-12.9
+833,AURUBIS,Germany,Industrial Metals & Mining,8.5,3.6,0.1,13789.2,3.4,168.8,45.7,1.2,585.5,28.6,4.2,6372,1.5
+834,POLYTEC,Austria,Automobiles & Parts,8.5,-22.5,1.8,481.6,-26.7,16.0,-8.2,3.3,27.6,-36.2,5.7,3563,-23.6
+835,EXCEET GROUP,Luxembourg,Electronic & Electrical Equipment,8.5,25.0,4.5,188.8,10.7,5.9,38.9,3.1,7.4,-53.9,3.9,966,7.6
+836,LAFUMA,France,Personal Goods,8.5,-5.1,3.8,224.5,0.2,4.8,-13.4,2.1,-7.4,-164.6,-3.3,1559,-4.7
+837,OXFORD CATALYSTS,UK,Chemicals,8.5,2.9,92.9,9.1,61.6,0.8,-19.6,9.1,-13.1,1.0,-143.3,79,0.0
+838,ARK THERAPEUTICS,UK,Pharmaceuticals & Biotechnology,8.5,-7.8,389.2,2.2,-74.5,0.1,11.3,5.9,-15.5,190.5,-711.5,64,1.6
+839,PONSSE,Finland,Industrial Engineering,8.4,-5.7,2.7,314.8,-4.1,18.1,91.5,5.7,24.4,-15.0,7.8,994,5.1
+840,ORC SOFTWARE,Sweden,Software & Computer Services,8.4,-35.8,20.4,41.2,67.4,,  ,0.0,3.3,-102.1,8.0,128,-20.5
+841,KPMG EUROPE,UK,Support Services,8.4,39.5,0.2,4913.8,4.0,,  ,0.0,853.7,-10.3,17.4,32281,8.2
+842,PURSUIT DYNAMICS,UK,Industrial Engineering,8.4,74.4,1025.3,0.8,39.2,1.9,-18.1,233.1,-20.9,13.7,-2567.7,73,9.0
+843,GERRY WEBER INTERNATIONAL,Germany,Personal Goods,8.3,2.4,1.0,802.3,14.2,56.4,84.5,7.0,115.4,14.9,14.4,4121,36.9
+844,BROOMCO,UK,Software & Computer Services,8.2,17.4,15.3,53.6,-23.5,,  ,0.0,6.0,-22.3,11.3,379,-10.6
+845,APPSENSE,UK,Software & Computer Services,8.2,38.4,12.2,67.2,41.3,,  ,0.0,4.2,12.3,6.3,385,32.3
+846,L'OCCITANE,Luxembourg,Personal Goods,8.2,39.6,0.8,1043.4,14.2,79.7,41.7,7.6,158.3,3.9,15.2,7047,9.1
+847,ARSEUS,Belgium,Health Care Equipment & Services,8.1,21.2,1.5,547.0,11.1,,  ,0.0,57.9,25.4,10.6,2370,6.3
+848,FISKARS,Finland,Household Goods & Home Construction,8.1,-15.6,1.1,747.8,0.7,32.7,34.0,4.4,63.8,21.3,8.5,3449,-3.5
+849,SHW,Germany,Automobiles & Parts,8.0,0.4,2.5,325.4,-9.8,16.4,-12.7,5.1,22.3,-6.1,6.9,1022,-3.9
+850,FASHION CHEMICALS,Germany,Chemicals,8.0,-6.0,3.3,239.7,6.7,,  ,0.0,10.1,629.0,4.2,731,2.7
+851,DEVRO,UK,Food Producers,8.0,-12.5,2.8,288.3,5.9,40.4,-9.2,14.0,50.6,-6.4,17.5,2220,2.4
+852,AESICA HOLDCO,UK,Pharmaceuticals & Biotechnology,8.0,  ,3.3,244.7,  ,,  ,0.0,19.9,  ,8.1,1195,  
+853,PKC,Finland,Electronic & Electrical Equipment,8.0,15.6,0.9,928.2,68.7,16.3,37.8,1.8,43.1,25.1,4.6,19305,-10.3
+854,PATRIA,Finland,Aerospace & Defence,8.0,45.5,1.1,736.1,19.0,,, ,87.0,44.2,11.8,3587,4.6
+855,FRANZ HANIEL & CIE,Germany,General Retailers,8.0,-20.0,0.0,26331.0,-3.7,,  ,0.0,1939.0,186.8,7.4,56480,-2.3
+856,ALDATA SOLUTION,Finland,Software & Computer Services,8.0,-21.2,11.7,68.6,-6.1,,  ,0.0,-6.3,-579.4,-9.1,526,-0.8
+857,TOBII TECHNOLOGY,Sweden,Technology Hardware & Equipment,8.0,-33.3,18.5,43.1,10.8,,  ,0.0,-6.2,-35.4,-14.3,332,7.4
+858,ACTURIS,UK,Software & Computer Services,7.9,47.7,27.1,29.3,24.5,,  ,0.0,12.1,20.6,41.5,171,20.4
+859,CARGOBULL LEASING,Germany,Industrial Engineering,7.9,3.4,9.2,86.3,7.6,,  ,0.0,5.0,59.3,5.8,763,4.2
+860,DISPLAYLINK,UK,Support Services,7.9,-6.3,57.9,13.7,51.3,,  ,0.0,-3.1,-59.5,-22.8,70,-16.7
+861,CESKE DRAHY,Czech Republic,Industrial Transportation,7.9,-6.0,0.5,1499.1,0.1,,  ,0.0,-21.3,-153.8,-1.4,10000,0.0
+862,RICARDO,UK,Support Services,7.9,-16.5,3.3,236.1,0.5,10.2,30.8,4.3,21.9,-1.1,9.3,1679,11.0
+863,ANALYTIK JENA,Germany,Health Care Equipment & Services,7.9,24.0,8.4,94.0,8.9,3.6,-16.5,3.9,6.1,21.7,6.5,827,3.1
+864,MTK WIRELESS,UK,Mobile Telecommunications,7.8,-13.1,85.2,9.1,-13.4,,  ,0.0,0.6,-13.4,6.5,51,-8.9
+865,EYEWEAR,Germany,Equity Investment Instruments,7.8,-29.2,4.6,169.1,8.8,,  ,0.0,15.2,-106.8,9.0,3980,-2.6
+866,VSM,Sweden,Household Goods & Home Construction,7.8,7.0,6.1,126.6,11.6,,  ,0.0,-4.9,3.5,-3.9,96,-1.0
+867,ACTIX,UK,Software & Computer Services,7.7,69.0,19.1,40.4,28.5,,  ,0.0,2.6,37.5,6.5,226,33.7
+868,GLOBAL GRAPHICS,France,Software & Computer Services,7.7,17.8,79.0,9.7,8.5,0.1,-5.4,1.1,-0.3,96.9,-3.3,78,4.0
+869,DS SMITH,UK,General Industrials,7.7,68.4,0.2,4388.5,86.3,112.7,41.4,2.6,151.2,178.4,3.4,19736,94.4
+870,PARAGON,Germany,Electronic & Electrical Equipment,7.6,41.6,10.9,70.4,5.1,2.7,30.5,3.8,7.8,-11.8,11.0,389,21.9
+871,KOHLER,UK,Industrial Engineering,7.6,-4.1,4.8,160.7,-2.2,,  ,0.0,9.0,-6.1,5.6,1112,5.8
+872,IMERYS MINERALS,UK,Mining,7.6,118.5,3.5,216.4,-23.3,,  ,0.0,19.4,24.3,8.9,1158,2.5
+873,ALFMEIER PRAEZISION AKTIEN,Germany,Industrial Engineering,7.6,6.9,3.7,202.6,2.6,,  ,0.0,3.7,-48.5,1.8,1872,7.7
+874,PATHEON,UK,Pharmaceuticals & Biotechnology,7.6,-10.1,9.1,83.1,-9.2,,  ,0.0,-1.2,-104.7,-1.4,537,-10.9
+875,BAKKAVOR,UK,Support Services,7.5,14.5,  ,,  ,,  ,  ,11.5,  ,  ,,  
+876,EL EN,Italy,Electronic & Electrical Equipment,7.5,-50.4,5.0,151.2,-28.4,2.1,-50.9,1.4,9.4,42.2,6.2,812,-28.7
+877,SANDERSON,UK,Software & Computer Services,7.5,28.7,47.1,16.0,-49.4,,  ,0.0,2.3,-8.7,14.3,146,-43.8
+878,ODELO,Germany,Electronic & Electrical Equipment,7.5,-31.7,26.0,28.8,-16.9,,  ,0.0,-11.5,14.8,-40.0,267,0.4
+879,PRUEFTECHNIK,Germany,General Industrials,7.5,9.4,11.4,65.4,12.9,,  ,0.0,11.6,18.4,17.8,472,5.8
+880,NETIA,Poland,Fixed Line Telecommunications,7.4,11.9,1.4,518.7,31.0,64.2,-0.1,12.4,-5.1,-106.9,-1.0,,  
+881,ROCKSTEADY STUDIOS,UK,Media,7.4,39.5,56.0,13.3,-2.7,,  ,0.0,4.0,9.0,30.3,95,-1.0
+882,KASSBOHRER GELAENDEFAHRZEUG,Germany,Automobiles & Parts,7.4,-5.1,3.7,200.4,-0.3,6.6,314.9,3.3,21.7,30.4,10.8,477,0.0
+883,CONSORT MEDICAL,UK,Health Care Equipment & Services,7.4,42.2,6.1,121.2,-28.1,11.9,-13.1,9.8,20.0,-19.1,16.5,1130,-2.8
+884,COMPACTGTL,UK,"Gas, Water & Multi-utilities",7.4,36.9,10296.7,0.1,-50.4,,  ,0.0,-18.3,25.6,-25500.0,44,76.0
+885,FABASOFT,Austria,Software & Computer Services,7.3,1.1,31.7,23.1,1.2,2.1,13.3,9.1,0.3,-64.4,1.1,204,0.5
+886,ENGINEERING INGEGNERIA INFORMATICA,Italy,Software & Computer Services,7.3,26.0,1.0,754.5,-0.5,7.2,-0.9,1.0,72.1,27.0,9.6,6600,3.0
+887,VEIKKAUS,Finland,Travel & Leisure,7.3,0.0,0.4,1775.8,-0.9,,  ,0.0,498.4,-2.3,28.1,,  
+888,ABCAM,UK,Pharmaceuticals & Biotechnology,7.3,44.8,6.2,117.0,17.5,2.3,82.1,1.9,41.1,11.1,35.1,405,36.4
+889,INTERSHOP COMMUNICATIONS,Germany,Software & Computer Services,7.3,-11.2,14.1,51.8,5.3,0.9,4.0,1.7,-0.7,-124.8,-1.4,530,12.8
+890,4SC,Germany,Pharmaceuticals & Biotechnology,7.3,-47.4,166.9,4.4,458.1,0.1,-70.2,1.1,-13.4,-28.7,-307.3,86,-10.4
+891,USU SOFTWARE,Germany,Software & Computer Services,7.2,11.5,14.1,51.2,12.4,0.7,27.2,1.4,4.7,-24.7,9.1,362,14.6
+892,EFORE,Finland,Electronic & Electrical Equipment,7.2,-3.0,9.3,78.1,-11.3,1.8,-59.7,2.2,-2.3,-151.2,-2.9,804,-11.4
+893,MOBOTIX,Germany,Electronic & Electrical Equipment,7.2,394.5,8.9,81.6,437.8,3.4,152.5,4.2,19.4,701.6,23.8,373,15.5
+894,CISION,Sweden,Software & Computer Services,7.2,-19.5,6.4,113.7,1.8,1.7,-16.8,1.5,9.5,-29.2,8.4,1169,-6.3
+895,SAGENTIA,UK,Support Services,7.2,-17.6,27.1,26.6,-5.5,0.5,74.5,1.9,4.1,-15.5,15.4,156,1.3
+896,GIMCO,Belgium,Construction & Materials,7.2,39.7,1098.8,0.7,3.2,,  ,0.0,0.1,-62.3,12.4,,  
+897,KEWILL,UK,Software & Computer Services,7.2,-9.4,10.2,70.9,-1.2,,  ,0.0,-1.0,-124.3,-1.4,641,-4.9
+898,ITV,UK,Media,7.2,-40.0,0.3,2626.4,2.6,59.8,42.9,2.3,550.2,14.1,20.9,4059,2.6
+899,CC 1,UK,Health Care Equipment & Services,7.1,  ,2.7,264.2,  ,,  ,0.0,23.3,  ,8.8,1012,  
+900,ATOSS SOFTWARE,Germany,Software & Computer Services,7.1,6.9,21.5,33.0,4.5,0.4,-46.3,1.1,7.6,4.5,23.2,276,2.6
+901,DORNIER MEDTECH,Germany,Support Services,7.1,7.7,8.1,87.8,-0.2,,  ,0.0,7.2,-22.6,8.2,431,0.0
+902,GOTHAER,Germany,Life Insurance,7.1,-34.9,0.2,3487.2,4.9,,  ,0.0,-946.0,65.7,-27.1,,-100.0
+903,VICAT,France,Construction & Materials,7.0,19.6,0.3,2292.2,1.2,269.0,-4.2,11.7,251.7,-18.1,11.0,7685,4.0
+904,POSTNL,The Netherlands,Industrial Transportation,7.0,16.7,0.2,4317.0,0.8,175.0,68.3,4.1,862.0,-453.3,20.0,66411,1.4
+905,ABN AMRO,The Netherlands,Banks,7.0,-30.0,0.1,7284.0,-5.0,,  ,0.0,1151.0,69.3,15.8,23059,  
+906,INFOR,UK,Software & Computer Services,7.0,19.3,33.5,20.9,10.1,,  ,0.0,8.3,1.0,39.8,88,10.0
+907,AMAG AUSTRIA METALL,Austria,Industrial Metals & Mining,7.0,13.5,0.9,814.2,0.1,79.2,78.4,9.7,83.0,-20.2,10.2,1490,4.8
+908,EXONHIT THERAPEUTICS,France,Pharmaceuticals & Biotechnology,7.0,7.7,159.6,4.4,-12.1,0.1,-41.6,2.0,-6.5,-23.8,-149.6,47,-6.0
+909,OPTOS,UK,Health Care Equipment & Services,7.0,-1.1,4.8,146.4,34.8,7.5,-58.7,5.1,18.3,3.0,12.5,426,17.0
+910,HYPOPORT,Germany,Financial Services,6.9,6.4,7.9,87.8,4.0,6.5,23.7,7.4,3.2,-46.0,3.6,546,11.7
+911,UPDATE SOFTWARE,Austria,Software & Computer Services,6.9,11.3,21.0,33.0,4.1,0.3,-11.3,0.9,-0.8,-900.0,-2.4,323,8.8
+912,RED ELECTRICA DE ESPA�A,Spain,Electricity,6.9,-3.6,0.4,1755.3,7.2,738.2,-20.8,42.1,893.7,7.3,50.9,1701,-4.2
+913,EPIGENOMICS,Germany,Pharmaceuticals & Biotechnology,6.9,0.9,667.8,1.0,-27.7,0.0,-87.4,3.9,-12.2,-19.2,-1174.8,39,-36.1
+914,MITIE,UK,Support Services,6.9,-24.7,0.3,2536.1,5.9,35.9,38.2,1.4,80.3,-34.1,3.2,72401,13.9
+915,INFOVISTA,France,Software & Computer Services,6.9,-28.3,15.1,45.9,6.7,,  ,0.0,4.2,78.9,9.1,221,-3.1
+916,RAISIO,Finland,Food Producers,6.9,1.5,1.2,584.1,5.7,10.0,20.5,1.7,31.8,3.6,5.4,1587,9.1
+917,JC DECAUX,France,Media,6.9,-10.4,0.3,2622.8,6.5,170.9,-5.5,6.5,272.6,-17.6,10.4,10484,1.7
+918,CAST,France,Software & Computer Services,6.9,5.4,26.3,26.2,-22.4,1.9,-20.9,7.1,-3.5,-207.9,-13.5,236,8.3
+919,RATOS,Sweden,Financial Services,6.9,-19.2,0.2,3157.8,-8.7,104.6,-6.1,3.3,188.2,-3.2,6.0,17111,-9.2
+920,DECHRA PHARMACEUTICALS,UK,Pharmaceuticals & Biotechnology,6.9,-8.2,1.3,509.5,9.5,2.0,28.5,0.4,25.0,-3.8,4.9,1042,3.7
+921,ELICA,Italy,Household Goods & Home Construction,6.8,16.8,1.8,384.9,1.7,9.3,-34.3,2.4,14.7,-30.8,3.8,3033,2.3
+922,FREENET,Germany,Software & Computer Services,6.8,-37.9,0.2,3089.0,-4.0,21.3,-5.5,0.7,203.4,21.2,6.6,3886,-4.2
+923,MICROGEN,UK,Software & Computer Services,6.8,-0.2,17.6,38.7,-16.7,0.7,  ,1.9,9.3,-18.6,24.0,256,-4.5
+924,SYMPHOGEN,Denmark,Pharmaceuticals & Biotechnology,6.8,-69.7,28.2,24.1,1881.4,,  ,0.0,-16.5,-38.6,-68.6,92,9.5
+925,DEMATIC,Germany,Industrial Engineering,6.8,-18.6,11.9,57.2,-19.6,,  ,0.0,-8.3,311.7,-14.5,375,3.0
+926,WOLFORD,Austria,Personal Goods,6.7,-5.4,4.3,156.5,1.6,5.9,-29.1,3.7,-0.6,-109.8,-0.4,1606,-1.5
+927,GAMES WORKSHOP,UK,Leisure Goods,6.7,24.8,4.1,162.2,0.8,6.4,11.2,4.0,25.4,11.0,15.7,1875,-4.4
+928,L&O SIG SAUER VERWALTUNGS,Germany,Support Services,6.7,38.4,4.2,160.7,22.6,,  ,0.0,12.4,136.0,7.7,686,10.3
+929,ADVANCED BUSINESS SOFTWARE AND SOLUTIONS,UK,Software & Computer Services,6.7,3.7,9.7,69.1,14.8,,  ,0.0,10.8,222.9,15.6,373,0.8
+930,UNIQA,Austria,Nonlife Insurance,6.7,-5.0,0.1,4650.6,-1.1,,  ,0.0,-525.8,9.5,-11.3,,-100.0
+931,MEDIGENE,Germany,Pharmaceuticals & Biotechnology,6.7,0.0,197.0,3.4,-89.6,0.3,-33.5,8.0,-14.2,-311.3,-420.2,53,1.9
+932,BOIRON,France,Pharmaceuticals & Biotechnology,6.6,45.7,1.2,566.3,8.2,14.5,-63.0,2.6,80.0,16.5,14.1,3924,-2.8
+933,TFL,Germany,Support Services,6.6,5.7,2.7,247.4,-1.4,,  ,0.0,8.5,-48.1,3.5,953,2.7
+934,ADOCIA,France,Pharmaceuticals & Biotechnology,6.6,34.2,165.7,4.0,157.6,0.7,312.7,18.7,-6.0,-0.1,-149.9,71,26.8
+935,TUI,Germany,Travel & Leisure,6.6,-51.1,0.0,18330.3,4.9,480.1,7.9,2.6,537.4,17.6,2.9,73812,0.1
+936,UZIN UTZ,Germany,Chemicals,6.6,26.9,3.2,207.3,4.1,12.7,42.1,6.1,14.5,7.5,7.0,954,4.4
+937,GERRESHEIMER,Germany,General Industrials,6.5,21.0,0.5,1219.1,11.4,113.5,36.9,9.3,127.6,16.7,10.5,10952,7.2
+938,HEXPOL,Sweden,Chemicals,6.5,14.3,0.7,933.0,11.3,20.3,70.6,2.2,124.6,19.4,13.4,3112,2.3
+939,SYSTAGENIX WOUND MANAGEMENT MANUFACTURING,UK,Support Services,6.5,25.4,11.9,54.7,5.1,,  ,0.0,2.9,19.3,5.4,385,1.0
+940,METRAWATT,Germany,Industrial Engineering,6.5,-7.4,7.5,86.5,0.0,,  ,0.0,10.3,-7.1,11.9,545,2.4
+941,ALFRESCO,UK,Software & Computer Services,6.4,73.2,22.2,29.0,29.2,,  ,0.0,-3.3,98.1,-11.3,134,48.9
+942,COCKERILL MAINTENANCE & INGENIERIE,Belgium,Construction & Materials,6.4,24.5,0.8,792.8,11.6,,  ,0.0,32.1,59.8,4.1,,  
+943,ROYAL IMTECH,The Netherlands,Construction & Materials,6.4,-45.3,0.1,5414.3,7.2,56.8,-16.6,1.0,-148.4,-176.0,-2.7,29473,7.5
+944,CENIT SYSTEMHAUS,Germany,Software & Computer Services,6.4,16.6,5.4,118.9,10.2,2.3,2.2,1.9,7.9,25.1,6.6,675,2.7
+945,ROTORK,UK,Industrial Engineering,6.4,18.5,1.0,612.0,14.3,15.0,23.9,2.5,147.9,10.5,24.2,2581,17.7
+946,LPKF LASER & ELECTRONICS,Germany,Electronic & Electrical Equipment,6.4,-44.8,5.5,115.1,26.3,7.1,-33.6,6.1,20.8,39.7,18.1,690,14.6
+947,TUEV SUD,Germany,Industrial Engineering,6.4,2.2,0.3,1820.6,8.5,,  ,0.0,153.8,-4.0,8.4,17227,7.5
+948,WOM WORLD OF MEDICINE,Germany,Health Care Equipment & Services,6.3,24.1,12.1,51.9,22.7,,  ,0.0,5.6,26.0,10.9,272,12.9
+949,SPHEROS MANAGEMENT,Germany,Industrial Engineering,6.3,5.9,3.4,184.9,11.2,,  ,0.0,16.4,54.3,8.9,681,9.8
+950,FAIRFORD EUROPE,Sweden,Support Services,6.2,15.5,1.5,410.0,10.3,,  ,0.0,14.2,43.7,3.5,1796,11.1
+951,NICOX,France,Pharmaceuticals & Biotechnology,6.2,-31.0,81.5,7.6,  ,0.4,476.9,4.9,-8.7,-50.4,-114.9,21,-61.1
+952,HELIOS,Slovenia,Construction & Materials,6.2,-21.2,1.8,337.9,0.1,11.1,-0.4,3.3,12.5,52.7,3.7,2433,12.8
+953,OPENWAVE SYSTEMS,UK,Technology Hardware & Equipment,6.2,13.2,45.4,13.6,-9.7,,  ,0.0,0.5,-33.0,3.7,136,-0.7
+954,ITI SCOTLAND,UK,Support Services,6.2,-44.0,2218.5,0.3,47.2,,  ,0.0,0.0,53.6,-2.5,,  
+955,TOPOTARGET,Denmark,Pharmaceuticals & Biotechnology,6.1,-14.3,1903.7,0.3,-96.3,0.0,-84.9,14.4,-10.7,126.9,-3349.1,23,-45.2
+956,SUNSEEKER INTERNATIONAL,UK,Support Services,6.1,39.5,1.8,345.4,4.6,,  ,0.0,26.6,-2417.1,7.7,2170,-3.6
+957,DECEUNINCK,Belgium,Construction & Materials,6.0,4.5,1.1,556.9,3.9,23.4,7.5,4.2,23.7,7.1,4.2,,-100.0
+958,INNOVIA GROUP,UK,Chemicals,6.0,7.7,1.5,401.4,-2.0,,  ,0.0,27.0,-45.6,6.7,1390,1.2
+959,GUNNEBO,Sweden,General Industrials,6.0,-12.4,1.0,610.1,1.9,11.3,49.1,1.9,20.3,-45.3,3.3,5563,-0.4
+960,JENSEN,Belgium,Industrial Engineering,6.0,1.7,2.6,229.9,6.3,,-100.0,0.0,17.8,102.0,7.7,1160,-0.6
+961,IRIS SOFTWARE,UK,Software & Computer Services,6.0,12.4,5.0,120.4,  ,,  ,0.0,17.6,  ,14.6,991,  
+962,PRICEWATERHOUSECOOPERS,UK,Support Services,6.0,-16.7,0.2,3134.7,6.5,,  ,0.0,875.5,7.3,27.9,17617,3.2
+963,G4S,UK,Support Services,6.0,-72.2,0.1,8971.2,-0.3,191.4,-7.5,2.1,364.8,-7.9,4.1,648254,1.3
+964,DIALIGHT,UK,Electronic & Electrical Equipment,6.0,-2.6,3.9,155.1,14.2,,  ,0.0,22.8,27.3,14.7,1626,42.8
+965,COMARCH,Poland,Software & Computer Services,5.9,-2.4,2.7,216.1,12.5,16.6,-8.7,7.7,7.7,-18.9,3.6,3660,  
+966,VISLINK,UK,Technology Hardware & Equipment,5.9,-9.5,8.6,68.4,13.7,0.5,-27.4,0.7,3.1,-170.4,4.5,251,-14.0
+967,CONSTRUCTIONS INDUSTRIELLES DE LA MEDITERRANEE,France,Industrial Engineering,5.9,2.5,0.8,722.1,8.6,15.3,43.8,2.1,34.9,40.7,4.8,,  
+968,UNITED BISCUITS,Luxembourg,Food Producers,5.9,-17.5,  ,,  ,,  ,  ,,  ,  ,,  
+969,LANGLEY,UK,Industrial Engineering,5.8,-4.8,1.1,544.6,8.7,,  ,0.0,112.5,54.0,20.7,2264,1.8
+970,STORE ELECTRONIC SYSTEMS,France,Electronic & Electrical Equipment,5.8,48.0,9.2,63.0,6.8,5.9,22.6,9.3,6.3,-52.0,10.0,139,15.8
+971,RMD HOLDING,Germany,Support Services,5.8,18.4,7.2,80.7,14.1,,  ,0.0,16.8,7.8,20.9,477,19.8
+972,PROXIMAGEN,UK,Pharmaceuticals & Biotechnology,5.8,-21.4,2156.2,0.3,-78.2,,  ,0.0,-8.8,-7.9,-3298.7,42,10.5
+973,MULTIPLE SCLEROSIS,UK,Health Care Equipment & Services,5.7,26.3,16.6,34.6,  ,,  ,0.0,-4.6,  ,-13.2,407,  
+974,MGI,France,Electronic & Electrical Equipment,5.7,45.5,21.2,27.1,20.9,,  ,0.0,5.9,33.8,21.9,79,  
+975,TT ELECTRONICS,UK,Electronic & Electrical Equipment,5.7,-9.4,1.0,570.4,-19.3,22.4,-12.2,3.9,31.1,-24.0,5.5,5464,-12.1
+976,SABIC UK PETROCHEMICALS,UK,Chemicals,5.7,  ,1.5,385.1,7.2,,  ,0.0,38.2,21.8,9.9,700,-0.8
+977,TEMENOS,UK,Software & Computer Services,5.7,-42.6,18.1,31.6,-19.3,,  ,0.0,-1.8,-71.1,-5.6,291,-11.8
+978,HOFT & WESSEL,Germany,Electronic & Electrical Equipment,5.7,37.5,6.5,88.4,-7.5,,-100.0,0.0,-10.6,-357.9,-11.9,514,2.8
+979,ITESOFT,France,Software & Computer Services,5.7,-3.4,26.3,21.7,-0.3,0.2,-71.7,1.1,0.7,33.3,3.0,179,-2.2
+980,MOLOGEN,Germany,Pharmaceuticals & Biotechnology,5.6,3.8,9401.7,0.1,-56.2,0.1,444.4,163.3,-7.9,3.9,-13153.3,53,1.9
+981,IGE+XAO,France,Software & Computer Services,5.6,5.7,23.9,23.4,4.8,0.2,4.0,0.9,5.6,7.1,24.0,352,8.6
+982,WAAGNER BIRO,Austria,Construction & Materials,5.6,-16.2,3.3,171.8,-0.1,,  ,0.0,-10.0,-203.2,-5.8,1149,-10.4
+983,TTP,UK,Software & Computer Services,5.6,-0.4,12.0,46.6,-0.1,,  ,0.0,0.3,-87.6,0.7,312,-1.0
+984,ALBIREO,Sweden,Pharmaceuticals & Biotechnology,5.6,-14.1,11.8,47.2,  ,,  ,0.0,40.7,-669.7,86.3,8,33.3
+985,CODEMASTERS SOFTWARE,UK,Software & Computer Services,5.6,5.2,8.1,68.4,-47.8,,  ,0.0,-13.1,3133.7,-19.1,667,-9.3
+986,INGLEBY 1863,UK,Software & Computer Services,5.5,  ,11.2,49.4,  ,,  ,0.0,4.2,  ,8.5,345,  
+987,VITROLIFE,Sweden,Health Care Equipment & Services,5.5,0.2,11.7,47.1,13.5,1.8,2.2,3.7,7.3,53.4,15.5,215,1.9
+988,LOMBARD MEDICAL TECHNOLOGIES,UK,Health Care Equipment & Services,5.5,-30.0,118.2,4.7,-3.1,0.2,-74.0,3.5,-9.8,-27.8,-211.1,97,10.2
+989,STENA,Sweden,Travel & Leisure,5.5,-25.4,0.2,3191.3,-2.1,,  ,0.0,391.9,-26.5,12.3,10565,3.2
+990,ELEMENTIS,UK,Chemicals,5.5,-7.7,1.0,573.7,-0.5,29.0,70.2,5.1,108.2,-13.8,18.9,1323,-0.5
+991,RECIPHARM AB,Sweden,Support Services,5.4,5.9,2.2,241.6,-3.2,,  ,0.0,22.0,86.7,9.1,1507,-10.9
+992,TELEVISION FRANCAISE 1,France,Media,5.4,-27.0,0.2,2620.6,0.0,51.4,-49.1,2.0,375.1,-11.7,14.3,3990,-3.2
+993,MONIER TECHNICAL CENTRE,UK,Industrial Engineering,5.4,11.8,64.5,8.3,2.1,,  ,0.0,-0.8,-184.9,-9.4,53,1.9
+994,TERMA,Denmark,Electronic & Electrical Equipment,5.3,5.8,3.5,152.6,-14.8,,  ,0.0,9.8,-30.9,6.4,1080,-9.6
+995,ITM POWER,UK,Electricity,5.3,-6.2,5118.4,0.1,-81.9,1.0,75.4,959.8,-7.6,-2.5,-7300.0,65,-1.5
+996,POWERCELL,Sweden,Industrial Engineering,5.3,-9.5,5435.3,0.1,1614.2,,  ,0.0,-4.9,1.7,-5001.3,18,-25.0
+997,MICROWAVE,France,Electronic & Electrical Equipment,5.3,20.0,11.4,46.4,5.3,3.1,76.3,6.7,3.8,19.5,8.1,307,15.0
+998,FIBERWEB,UK,Support Services,5.3,-47.6,1.5,358.9,0.8,16.6,-38.5,4.6,9.2,-9.4,2.6,1290,-32.5
+999,CONSILIUM,Sweden,Electronic & Electrical Equipment,5.3,5.1,4.7,110.7,-2.9,0.6,53.1,0.5,4.7,-25.9,4.3,414,2.2
+1000,SMARTRAC,The Netherlands,Electronic & Electrical Equipment,5.2,74.8,2.0,255.5,52.5,,  ,0.0,13.5,-141.7,5.3,3635,-1.1
