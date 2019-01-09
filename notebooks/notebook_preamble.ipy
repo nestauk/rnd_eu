@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 import sys
 project_dir = Path('..').resolve()  # project directory e.g. `/home/alex/GIT/nesta`
-sys.path.append(project_dir)  # run scripts from project directory base
+sys.path.append(str(project_dir))  # run scripts from project directory base
 data_path = project_dir / 'data'  # Don't hard-code data path
 
 ## Logging
